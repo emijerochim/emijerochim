@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I can solve a Rubik's cube in less than 20 seconds.
 - 🚴 Hobbies: writing, e-sports and ciclism.
 
-- 📫 How to reach me:    
+- 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-emijerochim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emijerochim@gmail.com)](mailto:emijerochim@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-emijerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/)     
+[![Linkedin Badge](https://img.shields.io/badge/-emijerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/) 
 [![Twitter Badge](https://img.shields.io/badge/-@emijerochim-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/emijerochim)](https://twitter.com/emijerochim) 
