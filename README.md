@@ -5,7 +5,7 @@
 
 - 🖥️ I build interactive, responsive and SEO websites in Javascript ES2020, Express, React and Node.js.
 
-- 💎 I am passionate about UX/UI and I try to make each website thinking user first.
+- 💎 I am passionate about UI/UX and I try to make each website thinking user first.
 
 - 💡 I have experience working on projects and implementing agile methodologies.
 
