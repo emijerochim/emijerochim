@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emi Jerochim <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </h2> 
-<p align="center">a Frontend Developer who is always learning something new</p>
+<p align="center">a Web Developer who is always learning something new</p>
 
 <h2 align="center">About me</h2>
 
