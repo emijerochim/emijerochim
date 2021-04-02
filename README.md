@@ -3,15 +3,15 @@
 
 <h2 align="center">About me</h2>
 
-- 🖥️ I build interactive, responsive and SEO websites in Javascript ES2020, Express, React and Node.js.
+- 🖥️ I build interactive, responsive and SEO websites in React, Node.js and PostgreSQL
 
-- 💎 I am passionate about UI/UX and I try to make each website thinking user first.
+- 💎 I am passionate about UI/UX and I try to make each website thinking user first
 
-- 💡 I have experience working on projects and implementing agile methodologies.
+- 💡 I have experience working on projects and implementing agile methodologies
 
-- ⚡ Fun fact: I can solve a Rubik's cube in less than 20 seconds.
+- 🧰 I also have knowledge of Redux, GraphQL, Webpack, Docker, Git, Java, Hibernate, Spring Boot and MySQL
 
-- 🚴 Hobbies: writing, e-sports and ciclism.
+- ⚡ Fun fact: I can solve a Rubik's cube in less than 30 seconds
 
 
 <h2 align="center">My stack :man_technologist:</h2>
