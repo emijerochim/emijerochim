@@ -9,7 +9,7 @@
 
 - 💡 I have experience working on projects and implementing agile methodologies
 
-- 🧰 I also have knowledge of Redux, GraphQL, Webpack, Docker, Git, Java, Hibernate, Spring Boot and MySQL
+- 🧰 I also have knowledge of Redux, GraphQL, Express, Webpack, Docker, Git, Java, Hibernate, Spring and MySQL
 
 - ⚡ Fun fact: I can solve a Rubik's cube in less than 30 seconds
 
