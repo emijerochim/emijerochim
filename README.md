@@ -3,13 +3,13 @@
 
 <h2 align="center">About me</h2>
 
-- 🖥️ I build interactive, responsive and SEO websites in React, Node.js and PostgreSQL
+- 🖥️ I build interactive, responsive and SEO websites in React, Node.js, Java, MySQL and PostgreSQL
 
 - 💎 I am passionate about UI/UX and I try to make each website thinking user first
 
 - 💡 I have experience working on projects and implementing agile methodologies
 
-- 🧰 I also have knowledge of Redux, GraphQL, Express, Webpack, Docker, Git, Java, Hibernate, Spring and MySQL
+- 🧰 I also have knowledge of Redux, GraphQL, Express, Webpack, Docker, C++ and Git
 
 - ⚡ Fun fact: I can solve a Rubik's cube in less than 30 seconds
 
