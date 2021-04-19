@@ -39,7 +39,6 @@
 <br></br>
 
 <h3 align="left">📦 Deploy</h3>
-<a href="https://www.postman.com/" title="Postman"><img src="https://github.com/get-icon/geticon/blob/master/logos/postman.svg" alt="Postman" width="42px" height="42px">     </a>
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/blob/master/logos/aws.svg" alt="AWS" width="42px" height="42px">     </a>
 <a href="https://www.digitalocean.com/" title="DigitalOcean"><img src="https://github.com/get-icon/geticon/blob/master/logos/digital-ocean.svg" alt="DigitalOcean" width="42px" height="42px">     </a>
 <a href="https://cloud.google.com/" title="Google Cloud"><img src="https://github.com/get-icon/geticon/blob/master/logos/google-cloud.svg" alt="Google" width="42px" height="42px">     </a>
@@ -63,6 +62,6 @@
 <a href="https://en.wikipedia.org/wiki/Agile_software_development" title="Agile"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/agile-2534713-2129528.png" alt="Agile" width="46px" height="46px">       </a>
 <a href="" title="Scrum"><img src="https://svgshare.com/i/WQZ.svg" alt="Scrum" width="52px" height="52px">       </a>
 <a href="" title="CI/CD"><img src="https://user-images.githubusercontent.com/29706515/115298440-dbebcd80-a133-11eb-8f73-905f01726ff0.png" alt="CI/CD" width="82px" height="42px">       </a>
-<br></br>
+<br></br><br></br><br></br>
 
 <h4><a href="http://github.com/emijerochim">github.com/emijerochim ⚙️</a></h4>
