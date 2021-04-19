@@ -64,4 +64,8 @@
 <a href="" title="CI/CD"><img src="https://user-images.githubusercontent.com/29706515/115298440-dbebcd80-a133-11eb-8f73-905f01726ff0.png" alt="CI/CD" width="82px" height="42px">       </a>
 <br></br><br></br><br></br>
 
-<p align="center"><a href="http://github.com/emijerochim">github.com/emijerochim ⚙️</a></p>
+<p align="right">
+  <a href="https://www.linkedin.com/in/emijerochim"><img src="https://svgshare.com/i/WPA.svg" alt="LinkedIn" width="42px" height="42px"></a>
+  <a href="https://www.twitter.com/emijerochim"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/twitter.svg" alt="Twitter" width="42px" height="42px"></a>
+  <a href="https://medium.com/@emijerochim"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/medium.svg" alt="Medium" width="42px" height="42px"></a>
+</p>
