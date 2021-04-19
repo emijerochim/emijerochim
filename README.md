@@ -48,8 +48,8 @@
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/blob/master/logos/aws.svg" alt="AWS" width="21px" height="21px"></a>
 <a href="https://www.digitalocean.com/" title="DigitalOcean"><img src="https://github.com/get-icon/geticon/blob/master/logos/digital-ocean.svg" alt="DigitalOcean" width="21px" height="21px"></a>
 <a href="https://cloud.google.com/" title="Google Cloud"><img src="https://github.com/get-icon/geticon/blob/master/logos/google-cloud.svg" alt="Google" width="21px" height="21px"></a>
-<a href="https://webpack.js.org/" title="Webpack"><img src="" alt="Webpack" width="21px" height="21px"></a>
-<a href="https://www.docker.com" title="Docker"><img src="" alt="Docker" width="21px" height="21px"></a>
+<a href="https://webpack.js.org/" title="Webpack"><img src="https://github.com/get-icon/geticon/blob/master/logos/redis.svg" alt="Webpack" width="21px" height="21px"></a>
+<a href="https://www.docker.com" title="Docker"><img src="https://github.com/get-icon/geticon/blob/master/logos/docker-icon.svg" alt="Docker" width="21px" height="21px"></a>
 <a href="" title="Redis"><img src="" alt="Redis" width="21px" height="21px"></a>
 
 <h3 align="left">✅ Testing</h3>
@@ -62,6 +62,10 @@
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://www.uml.org/" title="UML"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="UML" width="21px" height="21px"></a>
 <a href="https://trello.com/" title="Trello"><img src="https://user-images.githubusercontent.com/29706515/115297163-426fec00-a132-11eb-8dda-616b0308f8d1.png" alt="Trello" width="21px" height="21px"></a>
+<a href="https://slack.com/" title="Slack"><img src="https://github.com/get-icon/geticon/blob/master/logos/slack-icon.svg" alt="Slack" width="21px" height="21px"></a>
+<a href="https://en.wikipedia.org/wiki/Agile_software_development" title="Agile"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/agile-2534713-2129528.png" alt="Agile" width="21px" height="21px"></a>
+<a href="" title="Scrum"><img src="https://image.flaticon.com/icons/png/512/2029/2029878.png" alt="Scrum" width="21px" height="21px"></a>
+<a href="" title="CI/CD"><img src="https://user-images.githubusercontent.com/29706515/115298440-dbebcd80-a133-11eb-8f73-905f01726ff0.png" alt="CI/CD" width="45px" height="21px"></a>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emijerochim&langs_count=10&theme=tokyonight&layout=compact" alt="emijerochim :: Top Langs" /></p>
