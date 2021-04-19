@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Emi Jerochim <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2> 
 <p align="center">a Web Developer who is always learning something new</p>
+<br></br>
 
 <h3 align="center">💬 Languages</h3>
 <p align="center">
@@ -69,7 +70,7 @@
   <a href="https://en.wikipedia.org/wiki/Agile_software_development" title="Agile"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/agile-2534713-2129528.png" alt="Agile" width="46px" height="46px">       </a>
   <a href="" title="Scrum"><img src="https://svgshare.com/i/WQZ.svg" alt="Scrum" width="52px" height="52px">       </a>
   <a href="" title="CI/CD"><img src="https://user-images.githubusercontent.com/29706515/115298440-dbebcd80-a133-11eb-8f73-905f01726ff0.png" alt="CI/CD" width="82px" height="42px">       </a>
-  <br></br><br></br><br></br>
+  <br></br><br></br>
 </p>
 
 <p align="right">
