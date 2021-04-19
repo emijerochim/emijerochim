@@ -1,17 +1,7 @@
 <h1 align="center">Hi, I'm Emi Jerochim <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </h2> 
 <p align="center">a Web Developer who is always learning something new</p>
 
-<h2 align="center">About me</h2>
-
-- 🖥️ I build interactive, responsive and SEO websites in React, Node.js, Java, MySQL and PostgreSQL
-
-- 💎 I am passionate about UI/UX and I try to make each website thinking user first
-
-- 💡 I have experience working on projects and implementing agile methodologies
-
-- 🧰 I also have knowledge of Redux, GraphQL, Express, Webpack, Docker, C++ and Git
-
-- ⚡ Fun fact: I can solve a Rubik's cube in less than 30 seconds
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emijerochim&langs_count=10&theme=tokyonight&layout=compact" alt="emijerochim :: Top Langs" /></p>
 
 
 <h2 align="center">My stack :man_technologist:</h2>
@@ -66,7 +56,3 @@
 <a href="https://en.wikipedia.org/wiki/Agile_software_development" title="Agile"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/agile-2534713-2129528.png" alt="Agile" width="21px" height="21px">       </a>
 <a href="" title="Scrum"><img src="https://image.flaticon.com/icons/png/512/2029/2029878.png" alt="Scrum" width="23px" height="23px">       </a>
 <a href="" title="CI/CD"><img src="https://user-images.githubusercontent.com/29706515/115298440-dbebcd80-a133-11eb-8f73-905f01726ff0.png" alt="CI/CD" width="45px" height="21px">       </a>
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emijerochim&langs_count=10&theme=tokyonight&layout=compact" alt="emijerochim :: Top Langs" /></p>
-
