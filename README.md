@@ -75,7 +75,7 @@
 </p>
 
 <p align="right">
-  <a href="https://www.linkedin.com/in/emijerochim"><img src="https://svgshare.com/i/WPA.svg" alt="LinkedIn" width="42px" height="42px"></a>
+  <a href="https://www.linkedin.com/in/emijerochim"><img src="https://svgshare.com/i/WPA.svg" alt="LinkedIn" width="42px" height="42px">          </a>
   <a href="https://www.twitter.com/emijerochim"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/twitter.svg" alt="Twitter" width="42px" height="42px"></a>
   <a href="https://medium.com/@emijerochim"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/medium.svg" alt="Medium" width="42px" height="42px"></a>
 </p>
