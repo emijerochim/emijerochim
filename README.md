@@ -10,13 +10,13 @@ I'm a **software developer** interested in **design** and **finance**. I like to
 [![GitHub](https://img.shields.io/github/followers/emijerochim?label=follow&style=social)](https://github.com/emijerochim)
 [![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/)
 <br>
+
 ___
 <br>
 <p align="center">
   <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=emijerochim&show_icons=true&theme=jolly&line_height=27&count_private=true"/>
   <img alt="Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emijerochim&langs_count=6&theme=jolly&layout=compact"/>
 </p>
-<br>
 
 ___
 <h3 align="center">💬 Languages</h3>
