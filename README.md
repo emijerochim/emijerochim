@@ -1,4 +1,4 @@
-<a href="https://emijerochim.github.io/emijerochim/" target="_blank"><img align="left" alt="Laptop" width="200px" src="https://img.icons8.com/bubbles/2x/laptop.png"/></a>
+<a href="https://emijerochim.github.io/emijerochim/" target="_blank"><img align="left" alt="Laptop" width="260px" src="https://img.icons8.com/bubbles/2x/laptop.png"/></a>
 
 # <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Welcome!
 
@@ -14,8 +14,7 @@ I'm a **software developer** interested in **design** and **finance**. I like to
 ___
 <br>
 <p align="center">
-  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=emijerochim&show_icons=true&theme=jolly&line_height=27&count_private=true"/>
-  <img alt="Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emijerochim&langs_count=6&theme=jolly&layout=compact"/>
+  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=emijerochim&show_icons=true&theme=jolly&line_height=27&count_private=true"/><img alt="Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emijerochim&langs_count=6&theme=jolly&layout=compact"/>
 </p>
 
 ___
