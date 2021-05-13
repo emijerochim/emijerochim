@@ -91,8 +91,8 @@ ___
 
 ___
 
-<a href="https://www.facebook.com/emijerochim/" target="_blank"><img align="left" alt="Facebook" width="32px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/></a>
-<a href="https://www.twitter.com/emijerochim/" target="_blank"><img align="left" alt="Twitter" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"/></a>
-<a href="https://www.instagram.com/emijerochim/" target="_blank"><img align="left" alt="Instagram" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/></a>
-<a href="https://www.linkedin.com/in/emijerochim/" target="_blank"><img align="left" alt="LinkedIn" width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"/></a>
-<a href="https://medium.com/@emijerochim" target="_blank"><img align="left" alt="Medium" width="34px" src="https://github.com/tomchen/stack-icons/blob/master/logos/medium.svg"/></a>
+<a href="https://medium.com/@emijerochim" target="_blank"><img align="right" alt="Medium" width="34px" src="https://github.com/tomchen/stack-icons/blob/master/logos/medium.svg"/></a>
+<a href="https://www.linkedin.com/in/emijerochim/" target="_blank"><img align="right" alt="LinkedIn" width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"/></a>
+<a href="https://www.instagram.com/emijerochim/" target="_blank"><img align="right" alt="Instagram" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/></a>
+<a href="https://www.twitter.com/emijerochim/" target="_blank"><img align="right" alt="Twitter" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"/></a>
+<a href="https://www.facebook.com/emijerochim/" target="_blank"><img align="right" alt="Facebook" width="32px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/></a>
