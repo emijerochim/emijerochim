@@ -56,7 +56,7 @@ ___
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="42px" height="42px"     </a>
   <br></br>
 </p>
-
+<!-- 
 <h3 align="center">📦 Deploy</h3>
 <p align="center">
   <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" alt="AWS" width="42px" height="42px">     </a>
@@ -67,7 +67,6 @@ ___
   <a href="https://redis.io/" title="Redis"><img src="https://github.com/get-icon/geticon/blob/master/icons/redis.svg" alt="Redis" width="42px" height="42px">     </a>
   <br></br>
 </p>
-
 <h3 align="center">✅ Testing</h3>
 <p align="center">
   <a href="https://www.postman.com/" title="Postman"><img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" alt="Postman" width="42px" height="42px">     </a>
@@ -76,7 +75,7 @@ ___
   <a href="https://junit.org/" title="JUnit"><img src="https://junit.org/junit4/images/junit-logo.png" alt="JUnit" width="91px" height="42px">     </a>
   <br></br>
 </p>
-
+-->
 <h3 align="center">👥 Project Management</h3>
 <p align="center">
   <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="42px" height="42px">       </a>
