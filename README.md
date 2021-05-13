@@ -1,8 +1,24 @@
-<h1 align="center">Hi, I'm Emi Jerochim <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2> 
-<br></br>
-<p align="center">a Web Developer who is always learning something new</p>
-<br></br>
+<a href="https://emijerochim.github.io/emijerochim/" target="_blank"><img align="left" alt="Laptop" width="280px" src="https://img.icons8.com/bubbles/2x/laptop.png"/></a>
 
+# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Welcome!
+
+My name is **Emiliano Jerochim** but everybody calls me **Emi**
+<br>
+I'm a **software developer** interested in **design** and **finance**. I like to learn about new and exciting technologies. I'm currently learning about **Blockchain** and **Smart Contracts**.
+
+[![Twitter](https://img.shields.io/twitter/follow/emijerochim?style=social)](https://twitter.com/emijerochim)
+[![GitHub](https://img.shields.io/github/followers/emijerochim?label=follow&style=social)](https://github.com/emijerochim)
+[![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/)
+<br>
+___
+<br>
+<p align="center">
+  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=emijerochim&show_icons=true&theme=jolly&line_height=27&count_private=true"/>
+  <img alt="Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emijerochim&langs_count=6&theme=jolly&layout=compact"/>
+</p>
+<br>
+
+___
 <h3 align="center">💬 Languages</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="42px" height="42px">     </a>
@@ -73,8 +89,10 @@
   <br></br><br></br>
 </p>
 
-<p align="right">
-  <a href="https://www.linkedin.com/in/emijerochim"><img src="https://svgshare.com/i/WPA.svg" alt="LinkedIn" width="42px" height="42px">          </a>
-  <a href="https://www.twitter.com/emijerochim"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/twitter.svg" alt="Twitter" width="42px" height="42px"></a>
-  <a href="https://medium.com/@emijerochim"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/medium.svg" alt="Medium" width="42px" height="42px"></a>
-</p>
+___
+
+<a href="https://www.facebook.com/emijerochim/" target="_blank"><img align="left" alt="Facebook" width="32px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/></a>
+<a href="https://www.twitter.com/emijerochim/" target="_blank"><img align="left" alt="Twitter" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"/></a>
+<a href="https://www.instagram.com/emijerochim/" target="_blank"><img align="left" alt="Instagram" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/></a>
+<a href="https://www.linkedin.com/in/emijerochim/" target="_blank"><img align="left" alt="LinkedIn" width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"/></a>
+<a href="https://medium.com/@emijerochim" target="_blank"><img align="left" alt="Medium" width="34px" src="https://github.com/tomchen/stack-icons/blob/master/logos/medium.svg"/></a>
