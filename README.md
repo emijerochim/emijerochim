@@ -10,7 +10,7 @@
   <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" width="42px" height="42px">     </a>   
   <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="42px" height="42px">     </a>   
   <a href='https://svgshare.com/s/WMK' ><img src='https://svgshare.com/i/WMK.svg' alt="SQL"  width="42px" height="42px"/>     </a>   
-  <a href='' title="C++"><img src="https://github.com/get-icon/geticon/blob/master/logos/c-plusplus.svg" alt="C++"  width="42px" height="42px">     </a>
+  <a href='' title="C++"><img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="C++"  width="42px" height="42px">     </a>
   <br></br>
 </p>
 
