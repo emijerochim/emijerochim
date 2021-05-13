@@ -1,4 +1,4 @@
-<a href="https://emijerochim.github.io/emijerochim/" target="_blank"><img align="left" alt="Laptop" width="280px" src="https://img.icons8.com/bubbles/2x/laptop.png"/></a>
+<a href="https://emijerochim.github.io/emijerochim/" target="_blank"><img align="left" alt="Laptop" width="260px" src="https://img.icons8.com/bubbles/2x/laptop.png"/></a>
 
 # <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Welcome!
 
