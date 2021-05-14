@@ -67,15 +67,15 @@ ___
   <a href="https://redis.io/" title="Redis"><img src="https://github.com/get-icon/geticon/blob/master/icons/redis.svg" alt="Redis" width="42px" height="42px">     </a>
   <br></br>
 </p>
+-->
 <h3 align="center">✅ Testing</h3>
 <p align="center">
   <a href="https://www.postman.com/" title="Postman"><img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" alt="Postman" width="42px" height="42px">     </a>
   <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg" alt="Jest" width="60px" height="42px">     </a>
   <a href="https://testing-library.com/" title="Testing Library"><img src="https://testing-library.com/img/octopus-64x64.png" alt="Testing Library" width="42px" height="42px">     </a>
-  <a href="https://junit.org/" title="JUnit"><img src="https://junit.org/junit4/images/junit-logo.png" alt="JUnit" width="91px" height="42px">     </a>
   <br></br>
 </p>
--->
+
 <h3 align="center">👥 Project Management</h3>
 <p align="center">
   <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="42px" height="42px">       </a>
