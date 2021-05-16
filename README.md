@@ -30,7 +30,7 @@
     <div class="skill-set" align="center">
         <h3 align="center">💬 Languages</h3>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-            <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="42px" height="20px">
+            <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="42px" height="42px">
         </a>
         <a href="https://www.typescriptlang.org/" title="Typescript">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="42px" height="42px">
