@@ -78,12 +78,14 @@
         <a href="https://expressjs.com/" title="Express"
            <img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="144" height="42px">
         </a>
+        <!--                                                                                                                           
         <a href="https://hibernate.org" title="Hibernate">
             <img src="https://github.com/get-icon/geticon/blob/master/icons/hibernate.svg" alt="Hibernate" width="42px" height="42px">
         </a> 
         <a href="https://spring.io/" title="Spring">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/spring.svg" alt="Spring" width="42px" height="42px">
         </a>
+        -->
         <br>
         <br>
     </div>
