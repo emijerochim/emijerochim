@@ -1,8 +1,10 @@
 <body>
-<div class="header>
-  <a href="https://emijerochim.github.io/emijerochim/" target="_blank">
+<div class="header">
+  <a href="https://emijerochim.com/" target="_blank">
       <img align="left" alt="Laptop" width="180px" src="https://devathon.com/wp-content/uploads/2020/01/react-js-developers-devathon-2-1.png"/>
   </a>
+  
+  <div align="center">
   <h1><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px" style="display:inline-block"> Welcome!</h1>
   <p>
       My name is <strong>Emiliano Jerochim</strong> but everybody calls me <strong>Emi</strong>
@@ -13,6 +15,8 @@
   [![Twitter](https://img.shields.io/twitter/follow/emijerochim?style=social)](https://twitter.com/emijerochim)
   [![GitHub](https://img.shields.io/github/followers/emijerochim?label=follow&style=social)](https://github.com/emijerochim)
   [![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/)
+</div>
+  
 </div>
 <br>
 
