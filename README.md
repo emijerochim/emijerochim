@@ -62,9 +62,6 @@
         <a href="https://www.w3.org/TR/CSS/" title="CSS3">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="42px" height="42px">
         </a>
-        <a href="https://getbootstrap.com/" title="Bootstrap">
-            <img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" alt="Bootstrap" width="36px" height="42px">
-        </a>
         <br>
         <br>
     </div>
