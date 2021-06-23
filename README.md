@@ -1,7 +1,7 @@
 <body>
 <div class="header>
   <a href="https://emijerochim.github.io/emijerochim/" target="_blank">
-      <img align="left" alt="Laptop" width="280px" src="https://img.icons8.com/bubbles/2x/laptop.png"/>
+      <img align="left" alt="Laptop" width="180px" src="https://devathon.com/wp-content/uploads/2020/01/react-js-developers-devathon-2-1.png"/>
   </a>
   <h1><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px" style="display:inline-block"> Welcome!</h1>
   <p>
@@ -20,8 +20,8 @@
 
 <div class="git-stats" align="center">
 <br>
-  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=emijerochim&show_icons=true&hide=stars,issues&theme=merko&line_height=27&count_private=true"/>
-  <img alt="Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emijerochim&langs_count=3&theme=merko"/>
+  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=emijerochim&show_icons=true&hide=stars,issues&theme=react&line_height=27&count_private=true"/>
+  <img alt="Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emijerochim&langs_count=3&theme=react"/>
 </div>
 
 <hr>
@@ -31,12 +31,6 @@
         <h3 align="center">💬 Languages</h3>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="42px" height="42px">
-        </a>
-        <a href="https://www.typescriptlang.org/" title="Typescript">
-            <img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="42px" height="42px">
-        </a>
-        <a href="https://graphql.org/" title="GraphQL">
-            <img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" width="42px" height="42px">
         </a>
         <a href="https://www.java.com/" title="Java">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="42px" height="42px">
@@ -75,17 +69,9 @@
         <a href="https://nodejs.org/" title="Node.js">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="42px" height="42px">
         </a>
-        <a href="https://expressjs.com/" title="Express"
+        <a href="https://expressjs.com/" title="Express">
            <img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="144" height="42px">
         </a>
-        <!--                                                                                                                           
-        <a href="https://hibernate.org" title="Hibernate">
-            <img src="https://github.com/get-icon/geticon/blob/master/icons/hibernate.svg" alt="Hibernate" width="42px" height="42px">
-        </a> 
-        <a href="https://spring.io/" title="Spring">
-            <img src="https://github.com/tomchen/stack-icons/blob/master/logos/spring.svg" alt="Spring" width="42px" height="42px">
-        </a>
-        -->
         <br>
         <br>
     </div>
@@ -94,8 +80,8 @@
         <a href="https://dev.mysql.com/" title="MySQL">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="42px" height="42px">
         </a>
-        <a href="https://www.mongodb.com/" title="MongoDB">
-            <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="MongoDB" width="42px" height="42px">
+        <a href="https://firebase.google.com/" title="Firebase">
+            <img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" alt="Firebase" width="42px" height="42px">
         </a>
         <a href="https://www.postgresql.org/" title="PostgreSQL">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="42px" height="42px">
