@@ -1,7 +1,7 @@
 <body>
 <div class="header">
   <a href="https://emijerochim.com/" target="_blank">
-      <img align="left" alt="Laptop" width="200px" src="/react-js-developers-devathon-2-1.png"/>
+      <img align="left" alt="Laptop" width="250px" src="/img.png"/>
   </a>
   
   <div align="left">
