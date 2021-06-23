@@ -1,10 +1,10 @@
 <body>
 <div class="header">
   <a href="https://emijerochim.com/" target="_blank">
-      <img align="left" alt="Laptop" width="200px" src="https://devathon.com/wp-content/uploads/2020/01/react-js-developers-devathon-2-1.png"/>
+      <img align="left" alt="Laptop" width="160px" src="https://devathon.com/wp-content/uploads/2020/01/react-js-developers-devathon-2-1.png"/>
   </a>
   
-  <div align="center">
+  <div align="left">
   <h1><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px" style="display:inline-block"> Welcome!</h1>
   <p>
       My name is <strong>Emiliano Jerochim</strong> but everybody calls me <strong>Emi</strong>
