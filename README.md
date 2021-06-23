@@ -1,7 +1,7 @@
 <body>
 <div class="header">
   <a href="https://emijerochim.com/" target="_blank">
-      <img align="left" alt="Laptop" width="180px" src="https://devathon.com/wp-content/uploads/2020/01/react-js-developers-devathon-2-1.png"/>
+      <img align="left" alt="Laptop" width="200px" src="https://devathon.com/wp-content/uploads/2020/01/react-js-developers-devathon-2-1.png"/>
   </a>
   
   <div align="center">
