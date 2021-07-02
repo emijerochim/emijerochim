@@ -62,6 +62,9 @@
         <a href="https://www.w3.org/TR/CSS/" title="CSS3">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="42px" height="42px">
         </a>
+        <a href="https://sass-lang.com/" title="SASS">
+            <img src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="SASS" width="42px" height="42px">
+        </a>
         <br>
         <br>
     </div>
