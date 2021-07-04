@@ -56,6 +56,9 @@
         <a href="https://redux.js.org/" title="Redux">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="42px" height="42px">
         </a>
+        <a href="https://reactrouter.com/" title="Router">
+            <img src="https://github.com/tomchen/stack-icons/blob/master/logos/react-router.svg" alt="Router" width="42px" height="42px">
+        </a>
         <a href="https://www.w3.org/TR/html5/" title="HTML5">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5"  width="42px" height="42px">
         </a>
