@@ -7,9 +7,11 @@
   <div align="left">
   <h1><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px" style="display:inline-block"> Welcome!</h1>
   <p>
-      My name is <strong>Emiliano Jerochim</strong> but everybody calls me <strong>Emi</strong>
+      My name is <strong>Emi Jerochim</strong>
       <br>
-      I'm a <strong>software developer</strong> interested in <strong>design</strong> and <strong>finance</strong>. I like to learn about new and exciting technologies. I'm currently learning about <strong>Blockchain</strong> and <strong>Smart Contracts</strong>.
+      <br>
+      I'm a <strong>developer</strong> building web apps like discord bots, social media stats or commercial landing pages with a <a src="https://github.com/emijerochim#skillwrap">stack</a> of modern technologies and clean code.
+      <br>
   </p>
   
   [![Twitter](https://img.shields.io/twitter/follow/emijerochim?style=social)](https://twitter.com/emijerochim)
@@ -30,7 +32,7 @@
 
 <hr>
 
-<div class="skill-wrap">
+<div id="skill-wrap">
     <div class="skill-set" align="center">
         <h3 align="center">💬 Languages</h3>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
@@ -56,9 +58,6 @@
         <a href="https://redux.js.org/" title="Redux">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="42px" height="42px">
         </a>
-        <a href="https://reactrouter.com/" title="Router">
-            <img src="https://github.com/tomchen/stack-icons/blob/master/logos/react-router.svg" alt="Router" width="42px" height="42px">
-        </a>
         <a href="https://www.w3.org/TR/html5/" title="HTML5">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5"  width="42px" height="42px">
         </a>
@@ -79,6 +78,9 @@
         <a href="https://expressjs.com/" title="Express">
            <img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="144" height="42px">
         </a>
+        <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" title="Rest">
+           <img src="https://phauer.com/blog/2015/0728-enriching-restful-services-swagger/swagger-logo-300x239.png" alt="Express" height="42px">
+        </a>
         <br>
         <br>
     </div>
@@ -87,8 +89,8 @@
         <a href="https://dev.mysql.com/" title="MySQL">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="42px" height="42px">
         </a>
-        <a href="https://firebase.google.com/" title="Firebase">
-            <img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" alt="Firebase" width="42px" height="42px">
+        <a href="https://www.mongodb.com/" title="MongoDB">
+            <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="Firebase" width="42px" height="42px">
         </a>
         <a href="https://www.postgresql.org/" title="PostgreSQL">
             <img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="42px" height="42px">
