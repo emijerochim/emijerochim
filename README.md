@@ -1,27 +1,26 @@
 <body>
 <div class="header">
   <a href="https://emijerochim.com/" target="_blank">
-      <img align="left" alt="Laptop" width="250px" src="/img.png"/>
+    <img align="left" alt="Laptop" width="250px" src="/img.png"/>
   </a>
   
   <div align="left">
-  <h1><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px" style="display:inline-block"> Welcome!</h1>
-  <p>
-      My name is <strong>Emi Jerochim</strong>
-      <br>
-      <br>
-      I'm a <strong>developer</strong> building web apps like discord bots, social media stats or commercial landing pages with a <a src="#stack">stack</a> of modern technologies and clean code.
-      <br>
-  </p>
+    <h1><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px" style="display:inline-block"> Welcome!</h1>
+    <p>
+        My name is <strong>Emi Jerochim</strong>
+        <br>
+        <br>
+        I'm a <strong>developer</strong> building web apps like discord bots, social media stats or commercial landing pages with a stack of modern technologies and clean code.
+        <br>
+    </p>
   
   [![Twitter](https://img.shields.io/twitter/follow/emijerochim?style=social)](https://twitter.com/emijerochim)
   [![GitHub](https://img.shields.io/github/followers/emijerochim?label=follow&style=social)](https://github.com/emijerochim)
   [![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/)
+  </div>
 </div>
   
-</div>
 <br>
-
 <hr>
 
 <div class="git-stats" align="center">
@@ -31,10 +30,6 @@
 </div>
 
 <hr>
-
-  <div id=projects>
-    
-  </div>
   
 <div id="stack">
     <div class="skill-set" align="center">
