@@ -32,6 +32,7 @@
 <hr>
   
 <div id="stack">
+  <!--
     <div class="skill-set" align="center">
         <h3 align="center">💬 Languages</h3>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
@@ -49,6 +50,7 @@
         <br>
         <br>
     </div>
+  -->
     <div class="skill-set" align="center">
         <h3 align="center">📱 Frontend Development</h3>
         <a href="https://reactjs.org/" title="React">
