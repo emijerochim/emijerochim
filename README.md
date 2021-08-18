@@ -10,7 +10,7 @@
       My name is <strong>Emi Jerochim</strong>
       <br>
       <br>
-      I'm a <strong>developer</strong> building web apps like discord bots, social media stats or commercial landing pages with a <a src="https://github.com/emijerochim#skillwrap">stack</a> of modern technologies and clean code.
+      I'm a <strong>developer</strong> building web apps like discord bots, social media stats or commercial landing pages with a <a src="#stack">stack</a> of modern technologies and clean code.
       <br>
   </p>
   
@@ -32,7 +32,11 @@
 
 <hr>
 
-<div id="skill-wrap">
+  <div id=projects>
+    
+  </div>
+  
+<div id="stack">
     <div class="skill-set" align="center">
         <h3 align="center">💬 Languages</h3>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
