@@ -5,7 +5,10 @@
   </a>
   
   <div align="left">
-    <h1><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px" style="display:inline-block"> Welcome!</h1>
+    <h1>
+      <img src="https://github.com/emijerochim/emijerochim/blob/main/logo.png" width="27px" style="display:inline-block"> 
+      Welcome!
+    </h1>
     <p>
         My name is <strong>Emi Jerochim</strong>
         <br>
@@ -13,9 +16,7 @@
         I'm a <strong>developer</strong> building web apps like discord bots, social media stats or commercial landing pages with a stack of modern technologies and clean code.
         <br>
     </p>
-  
-  [![Twitter](https://img.shields.io/twitter/follow/emijerochim?style=social)](https://twitter.com/emijerochim)
-  [![GitHub](https://img.shields.io/github/followers/emijerochim?label=follow&style=social)](https://github.com/emijerochim)
+    
   [![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/)
   </div>
 </div>
@@ -32,6 +33,11 @@
 <hr>
   
 <div id="stack">
+  
+  <div class="">
+    
+  </div>
+  
   <!--
     <div class="skill-set" align="center">
         <h3 align="center">💬 Languages</h3>
@@ -51,6 +57,7 @@
         <br>
     </div>
   -->
+  <!--
     <div class="skill-set" align="center">
         <h3 align="center">📱 Frontend Development</h3>
         <a href="https://reactjs.org/" title="React">
@@ -99,7 +106,6 @@
         <br>
         <br>
     </div>
-    <!-- 
     <div class="skill-set" align="center">
         <h3 align="center">📦 Deploy</h3>
         <a href="https://aws.amazon.com/" title="AWS">
@@ -122,7 +128,6 @@
         </a>
         <br>
         <br>
-    -->
     <div class="skill-set" align="center">
         <h3 align="center">✅ Testing</h3>
         <a href="https://www.postman.com/" title="Postman">
@@ -175,4 +180,6 @@
         <img align="right" alt="Facebook" width="32px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/>
     </a>
 </div>
+
+-->
 </body>
