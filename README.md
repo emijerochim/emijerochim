@@ -29,13 +29,6 @@
   <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=emijerochim&show_icons=true&hide=stars,issues&theme=react&line_height=27&count_private=true"/>
   <img alt="Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emijerochim&langs_count=3&theme=react"/>
 </div>
-
-<hr>
-  
-<div id="stack">
-  
-  <div class="">
-    
   </div>
   
   <!--
