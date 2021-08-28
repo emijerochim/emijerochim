@@ -1,9 +1,5 @@
 <body>
 <div class="header">
-  <a href="https://emijerochim.com/" target="_blank">
-    <img align="left" alt="Laptop" width="300px" src="/img.png"/>
-  </a>
-  
   <div align="left">
     <h1>
       <img src="https://github.com/emijerochim/emijerochim/blob/main/logo.png" width="27px"> 
@@ -17,8 +13,7 @@
   [![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/) 
     <br>
     <br>
-    <br>
-    <br>
+  <a href="https://emijerochim.com/" target="_blank"><img align="left" alt="Laptop" width="300px" src="/img.png"/></a>
       <p>📱 Frontend: HTML5, CSS3, SASS, React</p>
       <p>🖥️ Backend: Node.js, Express, API REST</p>
       <p>💾 Bases de Datos: MySQL, MongoDB, PostgreSQL</p>
