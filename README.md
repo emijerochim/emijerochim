@@ -9,9 +9,7 @@
       My name is Emiliano Jerochim 👋
     </p>
     <p>I'm a developer building web apps, discord bots, commercial landing pages and more with a stack of modern technologies and clean code.</p>
-    
-  [![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/) 
-    <br>
+    <hr>
     <br>
   <a href="https://emijerochim.com/" target="_blank"><img align="left" alt="Laptop" width="300px" src="/img.png"/></a>
       <p>📱 Frontend: HTML5, CSS3, SASS, React</p>
@@ -19,6 +17,8 @@
       <p>💾 Bases de Datos: MySQL, MongoDB, PostgreSQL</p>
       <p>✅ Testing: Postman, Jest, Testing Library</p>
       <p>👥 Project Management: Git, UML, Trello, Agile, Scrum</p>
+    
+  [![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/) 
     <br>
   </div>
 </div>
