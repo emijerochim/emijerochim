@@ -1,20 +1,22 @@
 <body>
 <div class="header">
   <a href="https://emijerochim.com/" target="_blank">
-    <img align="left" alt="Laptop" width="550px" src="/img.png"/>
+    <img align="left" alt="Laptop" width="300px" src="/img.png"/>
   </a>
   
   <div align="left">
     <h1>
-      <img src="https://github.com/emijerochim/emijerochim/blob/main/logo.png" width="27px" style="display:inline-block"> 
+      <img src="https://github.com/emijerochim/emijerochim/blob/main/logo.png" width="27px"> 
       Welcome!
     </h1>
     <p>
       My name is Emiliano Jerochim 👋
     </p>
-    <p>
-      I'm a developer building web apps, discord bots, commercial landing pages and more with a stack of modern technologies and clean code.
-    </p>
+    <p>I'm a developer building web apps, discord bots, commercial landing pages and more with a stack of modern technologies and clean code.</p>
+    
+  [![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/) 
+    <br>
+    <br>
     <br>
       <p>📱 Frontend: HTML5, CSS3, SASS, React</p>
       <p>🖥️ Backend: Node.js, Express, API REST</p>
@@ -22,8 +24,6 @@
       <p>✅ Testing: Postman, Jest, Testing Library</p>
       <p>👥 Project Management: Git, UML, Trello, Agile, Scrum</p>
     <br>
-    
-  [![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/)
   </div>
 </div>
   
