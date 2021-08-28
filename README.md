@@ -18,6 +18,7 @@
     <br>
     <br>
     <br>
+    <br>
       <p>📱 Frontend: HTML5, CSS3, SASS, React</p>
       <p>🖥️ Backend: Node.js, Express, API REST</p>
       <p>💾 Bases de Datos: MySQL, MongoDB, PostgreSQL</p>
