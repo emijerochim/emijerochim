@@ -1,7 +1,7 @@
 <body>
 <div class="header">
   <a href="https://emijerochim.com/" target="_blank">
-    <img align="left" alt="Laptop" width="250px" src="/img.png"/>
+    <img align="left" alt="Laptop" width="550px" src="/img.png"/>
   </a>
   
   <div align="left">
@@ -10,12 +10,18 @@
       Welcome!
     </h1>
     <p>
-        My name is <strong>Emi Jerochim</strong>
-        <br>
-        <br>
-        I'm a <strong>developer</strong> building web apps like discord bots, social media stats or commercial landing pages with a stack of modern technologies and clean code.
-        <br>
+      My name is Emiliano Jerochim 👋
     </p>
+    <p>
+      I'm a developer building web apps, discord bots, commercial landing pages and more with a stack of modern technologies and clean code.
+    </p>
+    <br>
+      <p>📱 Frontend: HTML5, CSS3, SASS, React</p>
+      <p>🖥️ Backend: Node.js, Express, API REST</p>
+      <p>💾 Bases de Datos: MySQL, MongoDB, PostgreSQL</p>
+      <p>✅ Testing: Postman, Jest, Testing Library</p>
+      <p>👥 Project Management: Git, UML, Trello, Agile, Scrum</p>
+    <br>
     
   [![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/)
   </div>
