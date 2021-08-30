@@ -14,7 +14,7 @@
       <a href="https://emijerochim.com/" target="_blank"><img align="left" alt="Laptop" width="300px" src="/img.png"/></a>
       <p>📱 Frontend: HTML5, CSS3, SASS, React</p>
       <p>🖥️ Backend: Node.js, Express, API REST</p>
-      <p>💾 Bases de Datos: MySQL, MongoDB, PostgreSQL</p>
+      <p>💾 Databases: MySQL, MongoDB, PostgreSQL</p>
       <p>✅ Testing: Postman, Jest, Testing Library</p>
       <p>👥 Project Management: Git, UML, Trello, Agile, Scrum</p>
       <br>
