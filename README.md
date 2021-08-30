@@ -7,10 +7,17 @@
       </h1>
       <p>My name is Emiliano Jerochim 👋</p>
       <p>I'm a developer building web apps, discord bots, commercial landing pages and more with a stack of modern technologies and clean code.</p>
-      <hr>
+      <br>
+      <p align="center">💼 You can see my portfolio at <a href="https://emijerochim.com/">emijerochim.com</a>
+      <p align="center">📧 Mail me at <a href="mailto:dev@emijerochim.com/">dev@emijerochim.com</a></p>
+      
+  [![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/) 
+      <br>
       <br>
     </div>
     <div class="text">
+      <h2 align="center">My stack</h2>
+      <br>
       <a href="https://emijerochim.com/" target="_blank"><img align="left" alt="Laptop" width="300px" src="/img.png"/></a>
       <p>📱 Frontend: HTML5, CSS3, SASS, React</p>
       <p>🖥️ Backend: Node.js, Express, API REST</p>
