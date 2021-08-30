@@ -8,8 +8,8 @@
       <p>My name is Emiliano Jerochim 👋</p>
       <p>I'm a developer building web apps, discord bots, commercial landing pages and more with a stack of modern technologies and clean code.</p>
       <br>
-      <p align="center">💼 You can see my portfolio at <a href="https://emijerochim.com/">emijerochim.com</a>
-      <p align="center">📩 Mail me at <a href="mailto:dev@emijerochim.com/">dev@emijerochim.com</a></p>
+      <p align="center">💼  You can see my portfolio at <a href="https://emijerochim.com/">emijerochim.com</a>
+      <p align="center">✉️  Mail me at <a href="mailto:dev@emijerochim.com/">dev@emijerochim.com</a></p>
       
   [![Linkedin](https://img.shields.io/badge/-Emi_Jerochim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emijerochim/)](https://www.linkedin.com/in/emijerochim/) 
       <br>
