@@ -36,8 +36,9 @@ $font-color: white;
 
     a {
       .arrow {
-        margin-top: 15vh;
+        margin-top: 10vh;
         height: 10vh;
+        cursor: pointer;
       }
     }
   }
@@ -48,17 +49,13 @@ $font-color: white;
     background-size: cover;
 
     h2 {
-      margin-top: 10vh;
+      margin-top: 15vh;
       font-size: 4rem;
     }
 
     p {
       font-size: 2rem;
       width: 75%;
-    }
-
-    button {
-      padding: 1vw 3vw 1vw 3vw;
     }
   }
 }

@@ -12,7 +12,10 @@ function Banner(props) {
       <h1>EMI JEROCHIM</h1>
       <img
         src={props.darkMode ? blackHamburguer : whiteHamburguer}
-        onClick={() => props.setDarkMode(!props.darkMode)}
+        onClick={() => {
+          props.setDarkMode(!props.darkMode);
+          props.setShow(!props.show);
+        }}
         alt="hamburguer-menu"
       />
     </div>
