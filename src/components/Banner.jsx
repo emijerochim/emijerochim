@@ -6,7 +6,9 @@ import hamburguer from "../images/hamburguer.svg";
 function Banner() {
   return (
     <div className="banner">
-      <img src={logo} alt="logo" />
+      <a href="http://emijerochim.com">
+        <img className="logo" src={logo} alt="logo" />
+      </a>
       <h1>EMI JEROCHIM</h1>
       <img src={hamburguer} alt="hamburguer-menu" />
     </div>

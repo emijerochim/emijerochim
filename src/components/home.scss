@@ -1,5 +1,5 @@
-$regular: Montserrat Regular;
-$medium: Montserrat Medium;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
+$font: "Montserrat", sans-serif;
 $font-color: white;
 
 * {
@@ -15,37 +15,45 @@ $font-color: white;
   flex-direction: column;
   justify-content: center;
   background-image: url("../images/home.jpg");
-  background-size: 100%;
-  background-repeat: no-repeat;
+  background-size: 300%;
+  background-position: center;
 }
 
 h2 {
-  font-family: $medium;
+  font-family: $font;
   color: $font-color;
-  font-size: 3rem;
-}
-
-p {
-  font-family: $regular;
-  color: $font-color;
-  font-size: 1.5rem;
+  font-size: 2rem;
+  font-weight: 600;
   margin-top: 5vh;
 }
 
-button {
-  margin-top: 20vh;
+p {
+  font-family: $font;
+  color: $font-color;
   font-size: 1.5rem;
-  font-family: $regular;
-  background-color: $font-color;
-  padding: 2vw 5vw 2vw 5vw;
-  border: none;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 20px;
+  margin-top: 5vh;
+  font-weight: 400;
+}
+
+.arrow {
+  margin-top: 15vh;
+  height: 10vh;
 }
 
 @media screen and (min-width: 768px) {
   button {
     padding: 1vw 3vw 1vw 3vw;
+  }
+
+  h2 {
+    font-size: 4rem;
+  }
+
+  p {
+    font-size: 2rem;
+  }
+
+  .home-container {
+    background-size: cover;
   }
 }

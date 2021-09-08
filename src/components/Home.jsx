@@ -1,5 +1,7 @@
 import React from "react";
 import "./home.scss";
+import SocialMedia from "./SocialMedia.jsx";
+import arrow from "../images/arrow.png";
 
 function Home() {
   return (
@@ -7,7 +9,8 @@ function Home() {
       <div className="home-container">
         <h2>Desarrollador Web</h2>
         <p>Lleva tu proyecto al siguiente nivel</p>
-        <button>¿Comenzamos?</button>
+        <SocialMedia />
+        <img className="arrow" src={arrow} alt="arrow" />
       </div>
     </>
   );
