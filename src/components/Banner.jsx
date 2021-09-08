@@ -1,18 +1,20 @@
-import React from "react";
 import "./banner.scss";
 import logo from "../images/logo.png";
-import hamburguer from "../images/hamburguer.svg";
+import whiteHamburguer from "../images/whiteHamburguer.svg";
+import blackHamburguer from "../images/blackHamburguer.svg";
 
-function Banner() {
+function Banner(props) {
   return (
-    <div className="banner">
+    <div className={`banner ${props.darkMode}DarkMode`}>
       <a href="http://emijerochim.com">
         <img className="logo" src={logo} alt="logo" />
       </a>
       <h1>EMI JEROCHIM</h1>
-      <a href="https://www.youtube.com/watch?v=jNQXAC9IVRw" rel="noreferrer">
-        <img src={hamburguer} alt="hamburguer-menu" />
-      </a>
+      <img
+        src={props.darkMode ? blackHamburguer : whiteHamburguer}
+        onClick={() => props.setDarkMode(!props.darkMode)}
+        alt="hamburguer-menu"
+      />
     </div>
   );
 }
