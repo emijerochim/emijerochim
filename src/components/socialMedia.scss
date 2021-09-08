@@ -2,6 +2,7 @@
   display: flex;
   width: 90%;
   margin-top: 10vh;
+
   a {
     img {
       height: 5vh;
@@ -12,6 +13,7 @@
 @media (min-width: 768px) {
   .social-media {
     width: 30%;
+
     a {
       img {
         height: 7vh;

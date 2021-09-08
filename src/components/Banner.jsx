@@ -10,7 +10,9 @@ function Banner() {
         <img className="logo" src={logo} alt="logo" />
       </a>
       <h1>EMI JEROCHIM</h1>
-      <img src={hamburguer} alt="hamburguer-menu" />
+      <a href="https://www.youtube.com/watch?v=jNQXAC9IVRw" rel="noreferrer">
+        <img src={hamburguer} alt="hamburguer-menu" />
+      </a>
     </div>
   );
 }

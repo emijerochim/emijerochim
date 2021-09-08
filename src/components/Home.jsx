@@ -14,7 +14,9 @@ function Home() {
           limpio.
         </p>
         <SocialMedia />
-        <img className="arrow" src={arrow} alt="arrow" />
+        <a href="https://www.youtube.com/watch?v=SRATfPuSRwY">
+          <img className="arrow" src={arrow} alt="arrow" />
+        </a>
       </div>
     </>
   );
