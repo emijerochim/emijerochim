@@ -15,24 +15,30 @@ $font-color: white;
     rgba(0, 0, 0, 0) 0%,
     rgba(0, 0, 0, 0.3) 100%
   );
-}
 
-a {
-  height: 50%;
-  .logo {
-    height: 100%;
+  a {
+    height: 50%;
+    .logo {
+      height: 100%;
+    }
+  }
+
+  h1 {
+    font-family: $font;
+    color: $font-color;
+    font-weight: 500;
+    font-size: 1.5rem;
+  }
+
+  img {
+    height: 40%;
   }
 }
 
-h1 {
-  font-family: $font;
-  color: $font-color;
-  font-weight: 500;
-  font-size: 1.5rem;
-}
-
 @media screen and (min-width: 768px) {
-  h1 {
-    font-size: 2.5rem;
+  .banner {
+    h1 {
+      font-size: 2.5rem;
+    }
   }
 }
