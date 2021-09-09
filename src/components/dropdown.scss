@@ -7,13 +7,13 @@
   display: flex;
   position: fixed;
   flex-direction: column;
-
-  background: rgb(255, 255, 255);
+  background: rgb(220, 220, 220);
   background: linear-gradient(
     180deg,
-    rgba(220, 220, 220, 1) 100%,
-    rgba(255, 255, 255, 1) 0%
+    rgba(220, 220, 220, 1) 0%,
+    rgba(255, 255, 255, 1) 12%
   );
+  transition: all 0.5s ease-in-out;
 
   h3 {
     font-family: "Montserrat", sans-serif;
@@ -24,10 +24,15 @@
 }
 
 .App .falseShowMenu {
-  display: none;
+  transform: translateX(200%);
+  opacity: 0;
 }
 
 @media (min-width: 768px) {
+  .App .falseShowMenu {
+    transform: translateY(-200%);
+  }
+
   .dropdown {
     height: 70vh;
     margin-top: 15vh;
