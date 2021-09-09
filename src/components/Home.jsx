@@ -1,5 +1,5 @@
-import React from "react";
 import "./home.scss";
+import React from "react";
 import SocialMedia from "./SocialMedia.jsx";
 import arrow from "../images/arrow.png";
 

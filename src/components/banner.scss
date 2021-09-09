@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
 
 //Mixins
-@mixin dark {
+@mixin darkBanner {
   background: rgb(0, 0, 0);
   background: linear-gradient(
     180deg,
@@ -14,7 +14,7 @@
   }
 }
 
-@mixin light {
+@mixin lightBanner {
   background: rgb(255, 255, 255);
   background: linear-gradient(
     180deg,
@@ -24,6 +24,12 @@
   h1 {
     color: black;
   }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .banner {
@@ -53,21 +59,76 @@
     font-size: 1.5rem;
   }
 
-  img {
+  .hamburger-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
     height: 50%;
     cursor: pointer;
+    transition: all 0.5s ease-in-out;
+
+    .hamburger {
+      width: 50px;
+      height: 6px;
+      background: #fff;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(255, 101, 47, 0.2);
+      transition: all 0.5s ease-in-out;
+    }
+
+    .hamburger::before,
+    .hamburger::after {
+      content: "";
+      position: absolute;
+      width: 50px;
+      height: 6px;
+      background: #fff;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(255, 101, 47, 0.2);
+      transition: all 0.5s ease-in-out;
+    }
+    .hamburger::before {
+      //transform: translateY(-16px);
+      //transform: translateX(-25px);
+
+      transform: translate(-25px, -16px);
+    }
+    .hamburger::after {
+      //transform: translateY(16px);
+      transform: translate(-25px, 16px);
+    }
   }
 }
 
-.falseDarkMode {
-  @include dark;
+.falseLight {
+  @include darkBanner;
 }
-.trueDarkMode {
-  @include light;
+.trueLight {
+  @include lightBanner;
+
+  .hamburger-container {
+    .hamburger {
+      transform: translateX(-50px);
+      background: transparent;
+      box-shadow: none;
+    }
+    .hamburger::before {
+      transform: translateX(50%) rotate(45deg);
+      background-color: black;
+    }
+    .hamburger::after {
+      transform: translateX(50%) rotate(-45deg);
+      background-color: black;
+    }
+  }
 }
 
 @media screen and (min-width: 768px) {
   .banner {
+    height: 15vh;
+
     h1 {
       font-size: 2.5rem;
     }

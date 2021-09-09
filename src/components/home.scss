@@ -17,19 +17,20 @@ $font-color: white;
     background-size: 300%;
     background-position: center;
 
-    h2 {
-      font-family: $font;
-      color: $font-color;
-      font-size: 2rem;
-      font-weight: 600;
-      margin-top: 5vh;
-    }
-
+    h2,
     p {
       font-family: $font;
       color: $font-color;
-      font-size: 1rem;
       margin-top: 5vh;
+    }
+
+    h2 {
+      font-size: 2rem;
+      font-weight: 600;
+    }
+
+    p {
+      font-size: 1rem;
       font-weight: 400;
       width: 75%;
     }
