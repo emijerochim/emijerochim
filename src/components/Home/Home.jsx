@@ -1,10 +1,8 @@
 import "./home.scss";
 import React from "react";
 
-import SocialMedia from "./SocialMedia.jsx";
-
-import arrow from "../images/arrow.png";
-import smoothScroll from "../utils/smoothScroll";
+import SocialMedia from "../SocialMedia/SocialMedia";
+import Button from "../Button/Button";
 
 function Home() {
   return (
@@ -16,15 +14,7 @@ function Home() {
         limpio.
       </p>
       <SocialMedia />
-      <button type="button" href="#stack">
-        <img
-          className="arrow"
-          src={arrow}
-          alt="arrow"
-          tabIndex="0"
-          onClick={() => smoothScroll()}
-        />
-      </button>
+      <Button route="stack" />
     </div>
   );
 }

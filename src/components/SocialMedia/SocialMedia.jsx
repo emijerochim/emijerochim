@@ -1,12 +1,12 @@
 import React from "react";
 import "./socialMedia.scss";
 
-import facebook from "../images/facebook.svg";
-import twitter from "../images/twitter.svg";
-import instagram from "../images/instagram.svg";
-import linkedin from "../images/linkedin.svg";
-import github from "../images/github.svg";
-import mail from "../images/mail.svg";
+import facebook from "../../images/socialMedia/facebook.svg";
+import twitter from "../../images/socialMedia/twitter.svg";
+import instagram from "../../images/socialMedia/instagram.svg";
+import linkedin from "../../images/socialMedia/linkedin.svg";
+import github from "../../images/socialMedia/github.svg";
+import mail from "../../images/socialMedia/mail.svg";
 
 function SocialMedia() {
   return (

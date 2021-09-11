@@ -13,7 +13,7 @@
     rgba(220, 220, 220, 1) 0%,
     rgba(255, 255, 255, 1) 12%
   );
-  transition: all 0.5s ease-in-out;
+  transition: all 0.5s linear;
 
   .options-container {
     h3 {
@@ -26,8 +26,7 @@
 }
 
 .App .falseShowMenu {
-  transform: translateX(200%);
-  opacity: 0;
+  transform: translate(200%);
 }
 
 @media (min-width: 768px) {
