@@ -119,7 +119,7 @@ const particlesOptions = {
   detectRetina: true,
   background: {
     color: "#18181a",
-    image: "",
+    image: "url('images/home.jpg')",
     position: "50% 50%",
     repeat: "no-repeat",
     size: "cover",
