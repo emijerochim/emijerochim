@@ -35,9 +35,11 @@ $font-color: white;
       width: 75%;
     }
 
-    a {
+    button {
+      margin-top: 10vh;
+      background-color: transparent;
+      border: none;
       .arrow {
-        margin-top: 10vh;
         height: 10vh;
         cursor: pointer;
       }
