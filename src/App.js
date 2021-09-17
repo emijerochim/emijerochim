@@ -12,13 +12,15 @@ function App() {
   const [showMenu, setShowMenu] = useState(false);
 
   return (
-    <div className="App">
-      <Banner showMenu={showMenu} setShowMenu={setShowMenu} />
-      <Dropdown showMenu={showMenu} setShowMenu={setShowMenu} />
+    <main className="App">
+      <header>
+        <Banner showMenu={showMenu} setShowMenu={setShowMenu} />
+        <Dropdown showMenu={showMenu} setShowMenu={setShowMenu} />
+      </header>
       <Home />
       <Particles id="tsparticles" params={particlesOptions}></Particles>
       <Stack />
-    </div>
+    </main>
   );
 }
 

@@ -1,4 +1,64 @@
+$font: "Montserrat", sans-serif;
+$font-color: white;
+
 .stack {
   height: 100vh;
-  position: absolute;
+
+  .container {
+    h3 {
+      color: $font-color;
+      font-family: $font;
+      font-size: 2.5rem;
+      padding-bottom: 4vh;
+    }
+
+    padding-top: 12vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+
+    .stack-item {
+      margin-bottom: 4vh;
+      width: 100%;
+
+      h4 {
+        color: $font-color;
+        font-family: $font;
+        font-size: 1.5rem;
+      }
+
+      ul {
+        list-style-type: none;
+        display: flex;
+        justify-content: center;
+        border: 1px solid $font-color;
+
+        li {
+          img {
+            margin-top: 1vh;
+            height: 4vh;
+          }
+        }
+      }
+    }
+
+    .Frontend {
+      width: 50%;
+    }
+
+    .Backend{
+      width: 30%;
+    }
+
+    .Databases {
+      width: 60%;
+    }
+    .Testing {
+      width: 30%;
+    }
+    .Management {
+      width: 50%;
+    }
+
+  }
 }

@@ -16,11 +16,25 @@
   transition: all 0.5s linear;
 
   .options-container {
-    h3 {
-      font-family: "Montserrat", sans-serif;
-      font-weight: 400;
-      font-size: 1.5rem;
-      margin-top: 4vh;
+    ul {
+      list-style-type: none;
+      padding-top: 2vh;
+
+      li {
+        button {
+          margin: 0;
+          padding: 0;
+          cursor: pointer;
+
+          h3 {
+            font-family: "Montserrat", sans-serif;
+            color: black;
+            font-weight: 400;
+            font-size: 1.5rem;
+            margin-top: 4vh;
+          }
+        }
+      }
     }
   }
 }
@@ -40,9 +54,16 @@
 
     .options-container {
       margin-top: 2vh;
-      h3 {
-        font-size: 4rem;
-        margin-bottom: 2vh;
+
+      ul {
+        li {
+          button {
+            h3 {
+              font-size: 3rem;
+              margin-bottom: 2vh;
+            }
+          }
+        }
       }
     }
   }

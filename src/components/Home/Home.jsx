@@ -6,16 +6,19 @@ import Button from "../Button/Button";
 
 function Home() {
   return (
-    <div className="home-container">
-      <h2>Desarrollador Web</h2>
+    <section className="home" id="home">
+      <h2>Full Stack Developer</h2>
       <p>
-        Soy un desarrollador web, construyo web apps, bots de discord, landing
-        pages comerciales y más con un stack de tecnologías modernas y código
-        limpio.
+        ¡Hola! me llamo <strong>Emi Jerochim</strong> y soy un desarrollador
+        web.
+      </p>
+      <p>
+        Construyo web apps, bots de discord, landing pages comerciales y más con
+        un stack de tecnologías modernas y código limpio.
       </p>
       <SocialMedia />
-      <Button route="stack" />
-    </div>
+      <Button to="stack" />
+    </section>
   );
 }
 
