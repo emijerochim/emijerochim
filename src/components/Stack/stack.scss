@@ -1,24 +1,26 @@
 $font: "Montserrat", sans-serif;
 $font-color: white;
+$banner-size: 12vh;
+$container-size: 65vh;
 
 .stack {
-  height: 85vh;
+  height: 100vh;
 
   .container {
-
-    margin-top: 15vh;
+    height: $container-size + $banner-size;
+    padding-top: $banner-size;
     width: 100vw;
     display: flex;
     flex-direction: column;
 
     .stack-item {
-      margin-bottom: 3vh;
+      margin-top: 2.5vh;
       width: 100%;
 
       h4 {
         color: $font-color;
         font-family: $font;
-        font-size: 1.5rem;
+        font-size: 1.3rem;
       }
 
       ul {

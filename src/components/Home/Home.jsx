@@ -7,6 +7,7 @@ import Button from "../Button/Button";
 function Home() {
   return (
     <section className="home" id="home">
+    <div className="home-container">
       <h2>Full Stack Developer</h2>
       <p>
         ¡Hola! me llamo <strong>Emi Jerochim</strong> y soy un desarrollador
@@ -17,6 +18,7 @@ function Home() {
         un stack de tecnologías modernas y código limpio.
       </p>
       <SocialMedia />
+      </div>
       <Button to="stack" />
     </section>
   );

@@ -17,8 +17,8 @@ function Stack() {
         <StackItem group="Databases" items={[mysql, mongodb, postgresql]} />
         <StackItem group="Testing" items={[jestt, testinglibrary]} />
         <StackItem group="Management" items={[git, uml, trello, scrum]} />
-        <Button to="home" />
       </div>
+        <Button to="home" />
     </section>
   );
 }
