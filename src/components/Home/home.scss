@@ -1,8 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
-$font: "Montserrat", sans-serif;
-$font-color: white;
-$banner-size: 12vh;
-$container-size: 65vh;
+@import "../../utils/variables";
 
 * {
   margin: 0 auto;
@@ -17,16 +14,15 @@ $container-size: 65vh;
     background-position: center;
 
     .home-container {
-      height: $container-size + $banner-size;
-      padding-top: $banner-size;
+      height: $container-size-mobile + $banner-size-mobile;
+      padding-top: $banner-size-mobile + 8vh;
       display: flex;
       flex-direction: column;
-      justify-content: center;
+
       h2,
       p {
         font-family: $font;
         color: $font-color;
-        margin-top: 5vh;
       }
 
       h2 {
@@ -37,6 +33,7 @@ $container-size: 65vh;
       p {
         font-size: 1rem;
         font-weight: 400;
+        margin-top: 5vh;
         width: 85%;
       }
     }
@@ -48,14 +45,18 @@ $container-size: 65vh;
     background-size: cover;
     background-position: 25% 63%;
 
-    h2 {
-      margin-top: 15vh;
-      font-size: 4rem;
-    }
+    .home-container {
+      height: $banner-size-web + $container-size-web;
+      padding-top: $banner-size-web + 8vh;
 
-    p {
-      font-size: 2rem;
-      width: 75%;
+      h2 {
+        font-size: 4rem;
+      }
+
+      p {
+        font-size: 2rem;
+        width: 75%;
+      }
     }
   }
 }

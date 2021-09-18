@@ -1,26 +1,23 @@
-$font: "Montserrat", sans-serif;
-$font-color: white;
-$banner-size: 12vh;
-$container-size: 65vh;
+@import "../../utils/variables";
 
 .stack {
   height: 100vh;
 
-  .container {
-    height: $container-size + $banner-size;
-    padding-top: $banner-size;
+  .stack-container {
+    height: $container-size-mobile + $banner-size-mobile;
+    padding-top: $banner-size-mobile + 2vh;
     width: 100vw;
     display: flex;
     flex-direction: column;
+    align-items: left;
 
     .stack-item {
-      margin-top: 2.5vh;
       width: 100%;
 
       h4 {
         color: $font-color;
         font-family: $font;
-        font-size: 1.3rem;
+        font-size: 1.75rem;
       }
 
       ul {
@@ -31,29 +28,71 @@ $container-size: 65vh;
         li {
           img {
             margin-top: 1vh;
-            height: 4vh;
+            height: 5vh;
           }
         }
       }
     }
 
     .Frontend {
-      width: 50%;
+      width: 50vw;
+      transform: translateX(-20vw);
     }
 
-    .Backend{
-      width: 30%;
+    .Backend {
+      width: 30vw;
+      transform: translateX(25vw);
     }
 
     .Databases {
-      width: 60%;
+      width: 60vw;
+      transform: translateX(-15vw);
     }
     .Testing {
-      width: 30%;
+      width: 30vw;
+      transform: translateX(30vw);
     }
     .Management {
-      width: 50%;
+      width: 50vw;
+      transform: translateX(-20vw);
     }
+  }
+}
 
+@media screen and (min-width: 768px) {
+  .stack {
+    .stack-container {
+      height: $banner-size-web + $container-size-web;
+      padding-top: $banner-size-web + 5vh;
+
+      .stack-item {
+        h4 {
+          font-size: 2.5rem;
+        }
+      }
+
+      .Frontend {
+        width: 25vw;
+        transform: translateX(-30vw);
+      }
+
+      .Backend {
+        width: 15vw;
+        transform: translateX(35vw);
+      }
+
+      .Databases {
+        width: 30vw;
+        transform: translateX(-29vw);
+      }
+      .Testing {
+        width: 15vw;
+        transform: translateX(35vw);
+      }
+      .Management {
+        width: 25vw;
+        transform: translateX(-30vw);
+      }
+    }
   }
 }

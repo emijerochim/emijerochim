@@ -5,8 +5,8 @@
         <img src="https://github.com/emijerochim/emijerochim/blob/main/src/images/logo.png" width="27px"> 
         Welcome!
       </h1>
-      <p>My name is Emiliano Jerochim 👋</p>
-      <p>I'm a developer building web apps, discord bots, commercial landing pages and more with a stack of modern technologies and clean code.</p>
+      <p>Hi! my name is Emi Jerochim 👋</p>
+      <p>I build web apps, discord bots, commercial landing pages and more with a stack of modern technologies and clean code.</p>
       <br>
       <p align="center">💼  You can see my portfolio at <a href="https://emijerochim.com/">emijerochim.com</a>
       <p align="center">✉️  Mail me at <a href="mailto:dev@emijerochim.com/">dev@emijerochim.com</a></p>

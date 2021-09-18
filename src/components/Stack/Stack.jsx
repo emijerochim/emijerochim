@@ -11,7 +11,7 @@ import { git, uml, trello, scrum } from "../../images/stack/management";
 function Stack() {
   return (
     <section className="stack" id="stack">
-      <div className="container">
+      <div className="stack-container">
         <StackItem group="Frontend" items={[html5, css3, sass, figma, react]} />
         <StackItem group="Backend" items={[node, express]} />
         <StackItem group="Databases" items={[mysql, mongodb, postgresql]} />
