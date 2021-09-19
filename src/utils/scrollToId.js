@@ -1,8 +1,8 @@
-const scrollToId = (section) => {
+const scrollToId = async (section) => {
   const element = document.getElementById(section);
   const target = element.getBoundingClientRect().top + window.scrollY;
 
-  window.scrollTo({
+  await window.scrollTo({
     top: target,
     behavior: "smooth",
   });

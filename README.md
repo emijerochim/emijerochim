@@ -23,7 +23,7 @@
       <p>🖥️ Backend: Node.js, Express, API REST</p>
       <p>💾 Databases: MySQL, MongoDB, PostgreSQL</p>
       <p>✅ Testing: Postman, Jest, Testing Library</p>
-      <p>👥 Project Management: Git, UML, Trello, Agile, Scrum</p>
+      <p>👥 Project Management: Git, UML, Trello, Scrum</p>
       <br>
     </div>
   </div>

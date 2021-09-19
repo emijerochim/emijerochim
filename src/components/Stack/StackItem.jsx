@@ -1,6 +1,10 @@
 function StackItem(props) {
   return (
-    <div className={`stack-item ${props.group}`}>
+    <div className={`
+      stack-item 
+      ${props.group} 
+      enters-from-${props.entersFrom}
+    `}>
       <h4>{props.group}</h4>
       <ul>
         {props.items.map((item) => {

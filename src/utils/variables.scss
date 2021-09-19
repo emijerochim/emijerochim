@@ -1,7 +1,23 @@
+//Font variables
 $font: "Montserrat", sans-serif;
 $font-color: white;
+$border-color: white;
+
+//Layout variables
 $banner-size-mobile: 12vh;
 $banner-size-web: 15vh;
 $container-size-mobile: 65vh;
 $container-size-web: 65vh;
-$border-color: white;
+
+//Animation variables
+$frontend-translate-mobile: -15vw;
+$backend-translate-mobile: 25vw;
+$databases-translate-mobile: -10vw;
+$testing-translate-mobile: 30vw;
+$management-translate-mobile: -10vw;
+
+$frontend-translate-web: -30vw;
+$backend-translate-web: 35vw;
+$databases-translate-web: -29vw;
+$testing-translate-web: 35vw;
+$management-translate-web: -30vw;
