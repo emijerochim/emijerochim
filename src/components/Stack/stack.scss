@@ -16,8 +16,8 @@
       width: 100%;
 
       h4 {
-        color: $font-color;
-        font-family: $font;
+        font-family: $font-family-primary;
+        color: $font-color-light;
         font-size: 1.75rem;
       }
 
@@ -36,8 +36,8 @@
     }
 
     .Frontend {
-      width: 50vw;
-      transform: translateX(150%);
+      width: 60vw;
+      transform: translateX(100%);
       transition: all 0.5s ease-in-out;
       opacity: 0;
     }
@@ -59,7 +59,7 @@
     }
 
     .Databases {
-      width: 60vw;
+      width: 70vw;
       transform: translateX(100%);
       transition: all 0.5s ease-in-out;
       opacity: 0;
@@ -103,6 +103,7 @@
       height: $banner-size-web + $container-size-web;
       padding-top: $banner-size-web + 5vh;
 
+      //StackItem.jsx
       .stack-item {
         h4 {
           font-size: 2.5rem;
@@ -111,25 +112,47 @@
 
       .Frontend {
         width: 25vw;
+        //transform: translateX($frontend-translate-web);
+      }
+      .Frontend.entering-from-right {
         transform: translateX($frontend-translate-web);
+        opacity: 1;
       }
 
       .Backend {
         width: 15vw;
+        //transform: translateX($backend-translate-web);
+      }
+      .Backend.entering-from-left {
         transform: translateX($backend-translate-web);
+        opacity: 1;
       }
 
       .Databases {
         width: 30vw;
-        transform: translateX($databases-translate-web);
+        //transform: translateX($databases-translate-web);
       }
+      .Databases.entering-from-right {
+        transform: translateX($databases-translate-web);
+        opacity: 1;
+      }
+
       .Testing {
         width: 15vw;
-        transform: translateX($testing-translate-web);
+        //transform: translateX($testing-translate-web);
       }
+      .Testing.entering-from-left {
+        transform: translateX($testing-translate-web);
+        opacity: 1;
+      }
+
       .Management {
         width: 25vw;
+        //transform: translateX($management-translate-web);
+      }
+      .Management.entering-from-right {
         transform: translateX($management-translate-web);
+        opacity: 1;
       }
     }
   }
