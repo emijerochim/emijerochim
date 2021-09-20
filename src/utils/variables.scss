@@ -1,26 +1,46 @@
+//Debugging variables
+$border-color: white;
+
 //Font variables
 $font-family-primary: "Montserrat", sans-serif;
 $font-color-light: white;
 $font-color-dark: black;
-$border-color: white;
 
 //Layout variables
-$banner-size-mobile: 12vh;
-$banner-size-web: 15vh;
-$container-size-mobile: 65vh;
-$container-size-web: 65vh;
-$dropdown-size-mobile: 45vh;
-$dropdown-size-web: 60vh;
+  //Mobile
+  $banner-size-mobile: 12vh;
+  $container-size-mobile: 65vh;
+  $dropdown-size-mobile: 45vh;
+
+  //Web
+  $banner-size-web: 15vh;
+  $container-size-web: 65vh;
+  $dropdown-size-web: 60vh;
 
 //Animation variables
-$frontend-translate-mobile: -15vw;
-$backend-translate-mobile: 25vw;
-$databases-translate-mobile: -10vw;
-$testing-translate-mobile: 30vw;
-$management-translate-mobile: -10vw;
+  //Mobile
+  $frontend-translate-mobile: -15vw;
+  $backend-translate-mobile: 25vw;
+  $databases-translate-mobile: -10vw;
+  $testing-translate-mobile: 30vw;
+  $management-translate-mobile: -10vw;
 
-$frontend-translate-web: -20vw;
-$backend-translate-web: 20vw;
-$databases-translate-web: -20vw;
-$testing-translate-web: 20vw;
-$management-translate-web: -20vw;
+  //Web
+  $frontend-translate-web: -20vw;
+  $backend-translate-web: 20vw;
+  $databases-translate-web: -20vw;
+  $testing-translate-web: 20vw;
+  $management-translate-web: -20vw;
+
+//Color variables
+$home-text-background-color:  rgba(0, 0, 0, 0.2);
+$banner-background-color: linear-gradient(
+  180deg,
+  rgba(0, 0, 0, 0) 0%,
+  rgba(0, 0, 0, 0.3) 100%
+);
+$dropdown-background-color: linear-gradient(
+  180deg,
+  rgba(220, 220, 220, 1) 0%,
+  rgba(255, 255, 255, 1) 12%
+);

@@ -10,13 +10,7 @@
   flex-direction: column;
   z-index: 2;
 
-  //Animation properties
-  background: rgb(220, 220, 220);
-  background: linear-gradient(
-    180deg,
-    rgba(220, 220, 220, 1) 0%,
-    rgba(255, 255, 255, 1) 12%
-  );
+  background: $dropdown-background-color;
   transition: all 0.5s linear;
   opacity: 1;
 
