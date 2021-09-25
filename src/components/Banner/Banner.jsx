@@ -3,7 +3,7 @@ import logo from "../../images/logo.png";
 
 function Banner(props) {
   return (
-    <div className={`banner ${props.showMenu}Light`}>
+    <div className={`banner ${props.darkMode}DarkMode`}>
       <a className="logo_container" href="#home">
         <img className="logo" src={logo} alt="logo" />
       </a>
@@ -11,7 +11,8 @@ function Banner(props) {
       <div
         className="hamburger-container"
         onClick={() => {
-          props.setShowMenu(!props.showMenu);
+          props.setDarkMode(!props.darkMode);
+          props.setActiveDropdown(!props.activeDropdown);
         }}
       >
         <div className="hamburger"></div>

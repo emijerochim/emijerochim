@@ -38,8 +38,8 @@
   }
 }
 
-.falseShowMenu {
-  transform: translate(200%);
+.dropdown.falseActiveDropdown {
+  transform: translateX(200%);
 }
 
 @media (min-width: 768px) {
@@ -55,6 +55,7 @@
           button {
             h3 {
               font-size: 3rem;
+              font-weight: $light;
               margin-bottom: 2vh;
             }
           }
@@ -63,8 +64,9 @@
     }
   }
 
-  .falseShowMenu {
+  .dropdown.falseActiveDropdown {
     transform: translateY(-200%);
     opacity: 0;
   }
+  
 }

@@ -7,19 +7,22 @@ import Banner from "./components/Banner/Banner";
 import Dropdown from "./components/Dropdown/Dropdown";
 import Home from "./components/Home/Home";
 import Stack from "./components/Stack/Stack";
+import Contact from "./components/Contact/Contact";
 
 function App() {
-  const [showMenu, setShowMenu] = useState(false);
+  const [darkMode, setDarkMode] = useState(true);
+  const [activeDropdown, setActiveDropdown] = useState(false);
 
   return (
     <main className="App">
       <header>
-        <Banner showMenu={showMenu} setShowMenu={setShowMenu} />
-        <Dropdown showMenu={showMenu} setShowMenu={setShowMenu} />
+        <Banner darkMode={darkMode} setDarkMode={setDarkMode} activeDropdown={activeDropdown} setActiveDropdown={setActiveDropdown}/>
+        <Dropdown activeDropdown={activeDropdown} setactiveDropdown={activeDropdown} />
       </header>
       <Home />
       <Particles id="tsparticles" params={particlesOptions}></Particles>
       <Stack />
+      <Contact />
     </main>
   );
 }

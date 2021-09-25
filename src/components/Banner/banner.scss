@@ -10,7 +10,7 @@
   align-items: center;
   justify-content: center;
 
-  background: $banner-background-color;
+  background: $banner-trueDarkMode-background-color;
 
   .logo_container,
   .hamburger-container {
@@ -29,7 +29,7 @@
 
   h1 {
     font-family: $font-family-primary;
-    font-weight: 500;
+    font-weight: $semi-bold;
     font-size: 1.5rem;
     color: $font-color-light;
     transition: all 0.5s ease-in-out;
@@ -61,13 +61,8 @@
 }
 
 //Hamburger click
-.trueLight {
-  background: rgb(255, 255, 255);
-  background: linear-gradient(
-    180deg,
-    rgba(255, 255, 255, 1) 0%,
-    rgba(220, 220, 220, 1) 100%
-  );
+.falseDarkMode {
+  background: $banner-falseDarkMode-background-color;
 
   h1 {
     color: $font-color-dark;
@@ -115,7 +110,7 @@
     }
   }
 
-  .trueLight {
+  .falseDarkMode {
     .hamburger-container {
       .hamburger::before {
         transform: translateX(50%) rotate(45deg);

@@ -3,7 +3,7 @@ import scrollToId from "../../utils/scrollToId";
 
 function Dropdown(props) {
   return (
-    <div className={`dropdown ${props.showMenu}ShowMenu`}>
+    <div className={`dropdown ${props.activeDropdown}ActiveDropdown`}>
       <nav className="options-container">
         <ul>
           <li>
@@ -14,11 +14,6 @@ function Dropdown(props) {
           <li>
             <button onClick={() => scrollToId("stack")}>
               <h3>STACK</h3>
-            </button>
-          </li>
-          <li>
-            <button href="#projects" onClick={() => scrollToId("home")}>
-              <h3>PROYECTOS</h3>
             </button>
           </li>
           <li>

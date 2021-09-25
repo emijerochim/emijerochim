@@ -1,43 +1,36 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
 @import "../../utils/variables";
 
-* {
-  margin: 0 auto;
-  padding: 0;
-  box-sizing: border-box;
+.home {
+  height: 100vh;
+  background-image: url("../../images/home.jpg");
+  background-size: 300%;
+  background-position: center;
 
-  .home {
-    width: 100vw;
-    height: 100vh;
-    background-image: url("../../images/home.jpg");
-    background-size: 300%;
-    background-position: center;
+  .home-container {
+    height: $container-size-mobile + $banner-size-mobile;
+    padding-top: $banner-size-mobile + 8vh;
+    display: flex;
+    flex-direction: column;
 
-    .home-container {
-      height: $container-size-mobile + $banner-size-mobile;
-      padding-top: $banner-size-mobile + 8vh;
-      display: flex;
-      flex-direction: column;
+    h2,
+    p {
+      font-family: $font-family-primary;
+      color: $font-color-light;
+    }
 
-      h2,
-      p {
-        font-family: $font-family-primary;
-        color: $font-color-light;
-      }
+    h2 {
+      font-size: 2rem;
+      font-weight: $semi-bold;
+    }
 
-      h2 {
-        font-size: 2rem;
-        font-weight: 600;
-      }
-
-      p {
-        font-size: 1rem;
-        font-weight: 400;
-        margin-top: 5vh;
-        width: 85%;
-        background-color: $home-text-background-color;
-        border-radius: 10px;
-      }
+    p {
+      font-size: 1rem;
+      font-weight: $medium;
+      margin-top: 5vh;
+      width: 85%;
+      background-color: $home-text-background-color;
+      border-radius: 10px;
     }
   }
 }

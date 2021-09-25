@@ -6,18 +6,17 @@
   .stack-container {
     height: $container-size-mobile + $banner-size-mobile;
     padding-top: $banner-size-mobile + 2vh;
-    width: 100vw;
     overflow: hidden;
     display: flex;
     flex-direction: column;
 
     //StackItem.jsx
     .stack-item {
-      width: 100%;
 
       h4 {
         font-family: $font-family-primary;
         color: $font-color-light;
+        font-weight: $medium;
         font-size: 1.75rem;
       }
 

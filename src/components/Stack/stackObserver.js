@@ -1,4 +1,4 @@
-const observer = new IntersectionObserver(entries => {
+const stackObserver = new IntersectionObserver(entries => {
   entries.forEach(entry => {
     const direction = entry.target.classList.contains("enters-from-right")
     ? "right"
@@ -17,4 +17,4 @@ const observer = new IntersectionObserver(entries => {
   })
 });
 
-export default observer;
+export default stackObserver;
