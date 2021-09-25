@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "http://emijerochim.com/static/css/main.7abf321e.chunk.css",
-    "main.js": "http://emijerochim.com/static/js/main.8d18bafd.chunk.js",
-    "main.js.map": "http://emijerochim.com/static/js/main.8d18bafd.chunk.js.map",
-    "runtime-main.js": "http://emijerochim.com/static/js/runtime-main.fb217357.js",
-    "runtime-main.js.map": "http://emijerochim.com/static/js/runtime-main.fb217357.js.map",
-    "static/js/2.1c12f3ac.chunk.js": "http://emijerochim.com/static/js/2.1c12f3ac.chunk.js",
-    "static/js/2.1c12f3ac.chunk.js.map": "http://emijerochim.com/static/js/2.1c12f3ac.chunk.js.map",
-    "static/js/3.556cc8b8.chunk.js": "http://emijerochim.com/static/js/3.556cc8b8.chunk.js",
-    "static/js/3.556cc8b8.chunk.js.map": "http://emijerochim.com/static/js/3.556cc8b8.chunk.js.map",
+    "main.css": "http://emijerochim.com/static/css/main.28eafdbf.chunk.css",
+    "main.js": "http://emijerochim.com/static/js/main.e2eed780.chunk.js",
+    "main.js.map": "http://emijerochim.com/static/js/main.e2eed780.chunk.js.map",
+    "runtime-main.js": "http://emijerochim.com/static/js/runtime-main.88abeb2d.js",
+    "runtime-main.js.map": "http://emijerochim.com/static/js/runtime-main.88abeb2d.js.map",
+    "static/js/2.32470a49.chunk.js": "http://emijerochim.com/static/js/2.32470a49.chunk.js",
+    "static/js/2.32470a49.chunk.js.map": "http://emijerochim.com/static/js/2.32470a49.chunk.js.map",
+    "static/js/3.034d2223.chunk.js": "http://emijerochim.com/static/js/3.034d2223.chunk.js",
+    "static/js/3.034d2223.chunk.js.map": "http://emijerochim.com/static/js/3.034d2223.chunk.js.map",
     "index.html": "http://emijerochim.com/index.html",
-    "static/css/main.7abf321e.chunk.css.map": "http://emijerochim.com/static/css/main.7abf321e.chunk.css.map",
-    "static/js/2.1c12f3ac.chunk.js.LICENSE.txt": "http://emijerochim.com/static/js/2.1c12f3ac.chunk.js.LICENSE.txt",
+    "static/css/main.28eafdbf.chunk.css.map": "http://emijerochim.com/static/css/main.28eafdbf.chunk.css.map",
+    "static/js/2.32470a49.chunk.js.LICENSE.txt": "http://emijerochim.com/static/js/2.32470a49.chunk.js.LICENSE.txt",
     "static/media/arrow.911379b7.png": "http://emijerochim.com/static/media/arrow.911379b7.png",
+    "static/media/contact.scss": "http://emijerochim.com/static/media/contact.ccdd3113.svg",
     "static/media/css3.212d777a.svg": "http://emijerochim.com/static/media/css3.212d777a.svg",
     "static/media/express.d47c6f59.svg": "http://emijerochim.com/static/media/express.d47c6f59.svg",
     "static/media/facebook.a2e78fec.svg": "http://emijerochim.com/static/media/facebook.a2e78fec.svg",
@@ -38,9 +39,9 @@
     "static/media/uml.b37efb13.png": "http://emijerochim.com/static/media/uml.b37efb13.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb217357.js",
-    "static/js/2.1c12f3ac.chunk.js",
-    "static/css/main.7abf321e.chunk.css",
-    "static/js/main.8d18bafd.chunk.js"
+    "static/js/runtime-main.88abeb2d.js",
+    "static/js/2.32470a49.chunk.js",
+    "static/css/main.28eafdbf.chunk.css",
+    "static/js/main.e2eed780.chunk.js"
   ]
 }

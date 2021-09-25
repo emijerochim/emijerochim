@@ -40,14 +40,11 @@ $management-translate-web: -20vw;
 
 //Color variables
 $home-text-background-color: rgba(0, 0, 0, 0.2);
-$contact-text-background-color: rgba(0, 0, 0, 0.3);
-$blue: #80d8ff;
-$pink: #e981fc;
 
 $banner-trueDarkMode-background-color: linear-gradient(
   180deg,
   rgba(25, 25, 25, 1) 0%,
-  rgba(0, 0, 0, 1) 100%
+  rgba(0, 0, 0, 0.5) 100%
 );
 $banner-falseDarkMode-background-color: linear-gradient(
   180deg,
@@ -72,3 +69,8 @@ $contact-web-background-color: linear-gradient(
   rgb(233, 129, 252) 0%,
   rgb(128, 216, 255) 60%
 );
+
+$contact-text-background-color: rgba(0, 0, 0, 0.3);
+
+$footer-top-background-color: rgb(25, 25, 25);
+$footer-bottom-background-color: rgb(10, 10, 10);
