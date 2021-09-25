@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "http://emijerochim.com/static/css/main.28eafdbf.chunk.css",
-    "main.js": "http://emijerochim.com/static/js/main.e2eed780.chunk.js",
-    "main.js.map": "http://emijerochim.com/static/js/main.e2eed780.chunk.js.map",
-    "runtime-main.js": "http://emijerochim.com/static/js/runtime-main.88abeb2d.js",
-    "runtime-main.js.map": "http://emijerochim.com/static/js/runtime-main.88abeb2d.js.map",
+    "main.css": "http://emijerochim.com/static/css/main.b4cdc364.chunk.css",
+    "main.js": "http://emijerochim.com/static/js/main.ee1a148a.chunk.js",
+    "main.js.map": "http://emijerochim.com/static/js/main.ee1a148a.chunk.js.map",
+    "runtime-main.js": "http://emijerochim.com/static/js/runtime-main.950f1ee6.js",
+    "runtime-main.js.map": "http://emijerochim.com/static/js/runtime-main.950f1ee6.js.map",
     "static/js/2.32470a49.chunk.js": "http://emijerochim.com/static/js/2.32470a49.chunk.js",
     "static/js/2.32470a49.chunk.js.map": "http://emijerochim.com/static/js/2.32470a49.chunk.js.map",
-    "static/js/3.034d2223.chunk.js": "http://emijerochim.com/static/js/3.034d2223.chunk.js",
-    "static/js/3.034d2223.chunk.js.map": "http://emijerochim.com/static/js/3.034d2223.chunk.js.map",
+    "static/js/3.4afa9a52.chunk.js": "http://emijerochim.com/static/js/3.4afa9a52.chunk.js",
+    "static/js/3.4afa9a52.chunk.js.map": "http://emijerochim.com/static/js/3.4afa9a52.chunk.js.map",
     "index.html": "http://emijerochim.com/index.html",
-    "static/css/main.28eafdbf.chunk.css.map": "http://emijerochim.com/static/css/main.28eafdbf.chunk.css.map",
+    "static/css/main.b4cdc364.chunk.css.map": "http://emijerochim.com/static/css/main.b4cdc364.chunk.css.map",
     "static/js/2.32470a49.chunk.js.LICENSE.txt": "http://emijerochim.com/static/js/2.32470a49.chunk.js.LICENSE.txt",
     "static/media/arrow.911379b7.png": "http://emijerochim.com/static/media/arrow.911379b7.png",
     "static/media/contact.scss": "http://emijerochim.com/static/media/contact.ccdd3113.svg",
@@ -39,9 +39,9 @@
     "static/media/uml.b37efb13.png": "http://emijerochim.com/static/media/uml.b37efb13.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.88abeb2d.js",
+    "static/js/runtime-main.950f1ee6.js",
     "static/js/2.32470a49.chunk.js",
-    "static/css/main.28eafdbf.chunk.css",
-    "static/js/main.e2eed780.chunk.js"
+    "static/css/main.b4cdc364.chunk.css",
+    "static/js/main.ee1a148a.chunk.js"
   ]
 }

@@ -6,8 +6,8 @@
   height: $dropdown-size-mobile;
   margin-top: $banner-size-mobile;
   display: flex;
-  position: fixed;
   flex-direction: column;
+  position: fixed;
   z-index: 2;
 
   background: $dropdown-background-color;
@@ -15,14 +15,13 @@
   opacity: 1;
 
   .options-container {
+    margin-top: 2vh;
+
     ul {
       list-style-type: none;
-      padding-top: 2vh;
 
       li {
         button {
-          margin: 0;
-          padding: 0;
           cursor: pointer;
 
           h3 {
@@ -55,8 +54,6 @@
           button {
             h3 {
               font-size: 3rem;
-              font-weight: $light;
-              margin-bottom: 2vh;
             }
           }
         }
@@ -68,5 +65,4 @@
     transform: translateY(-200%);
     opacity: 0;
   }
-  
 }
