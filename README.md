@@ -24,6 +24,7 @@
       <p>💾 Databases: MySQL, MongoDB, PostgreSQL</p>
       <p>✅ Testing: Postman, Jest, Testing Library</p>
       <p>👥 Project Management: Git, UML, Trello, Scrum</p>
+      <p> </p>
       <br>
     </div>
   </div>
