@@ -18,7 +18,7 @@
     <div class="text">
       <h2 align="center">My stack</h2>
       <br>
-      <a href="https://emijerochim.com/" target="_blank"><img align="left" alt="Laptop" width="300px" src="/src/images/readme.png"/></a>
+      <a href="https://emijerochim.com/" target="_blank"><img align="left" alt="Laptop" width="330px" src="/src/images/readme.png"/></a>
       <p>📱 Frontend: HTML5, CSS3, SASS, Figma, React</p>
       <p>🖥️ Backend: Node.js, Express, API REST</p>
       <p>💾 Databases: MySQL, MongoDB, PostgreSQL</p>
