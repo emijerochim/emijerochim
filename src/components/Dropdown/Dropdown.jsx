@@ -17,7 +17,7 @@ function Dropdown(props) {
             </button>
           </li>
           <li>
-            <button href="#contact" onClick={() => scrollToId("home")}>
+            <button href="#contact" onClick={() => scrollToId("contact")}>
               <h3>CONTACTO</h3>
             </button>
           </li>
