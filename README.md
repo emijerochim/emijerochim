@@ -6,7 +6,7 @@
         Welcome!
       </h1>
       <p>Hi! my name is Emi Jerochim 👋</p>
-      <p>I build web apps, commercial landing pages and more with a stack of modern technologies and clean code.</p>
+      <p>I build web apps, discord bots, commercial landing pages and more with a stack of modern technologies and clean code.</p>
       <br>
       <p align="center">💼  You can see my portfolio at <a href="https://emijerochim.com/">emijerochim.com</a>
       <p align="center">✉️  Mail me at <a href="mailto:dev@emijerochim.com/">dev@emijerochim.com</a></p>
@@ -21,6 +21,7 @@
       <p>📱 Frontend: HTML5, CSS3, SASS, Figma, React, Router</p>
       <p>🖥️ Backend: Node.js, Express, API REST</p>
       <p>💾 Databases: MySQL, MongoDB, PostgreSQL</p>
+      <p>✅ Testing: Postman, Jest, Testing Library</p>
       <p>👥 Project Management: Git, UML, Trello, Scrum</p>
       <p> </p>
       <br>
