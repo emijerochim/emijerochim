@@ -5,17 +5,17 @@
         <img src="https://github.com/emijerochim/emijerochim/blob/main/src/images/logo.png" width="27px"> 
         Welcome!
       </h1>
-      <p>Hi! my name is Emi Jerochim 👋</p>
-      <p>I build web apps, discord bots, commercial landing pages and more with a stack of modern technologies and clean code.</p>
+      <p>Hi! my name is Emi 👋</p>
+      <p>I build web apps, landing pages, REST APIs, bots and more with a stack of modern technologies and clean code.</p>
       <br>
       <p align="center">💼  You can see my portfolio at <a href="https://emijerochim.com/">emijerochim.com</a>
       <p align="center">✉️  Mail me at <a href="mailto:dev@emijerochim.com/">dev@emijerochim.com</a></p>
       <a href="https://www.linkedin.com/in/emijerochim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <br>
-      <br>
+      <br></br>
       <a href="https://emijerochim.com/" target="_blank"><img align="center" alt="Code" width="300px" src="/src/images/code.jpg"/></a>
       <br>
     </div>
+      <br></br>
     <div class="text">
       <h2 align="center">My stack</h2>
       <br>
