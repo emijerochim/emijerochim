@@ -13,16 +13,17 @@
       <a href="https://www.linkedin.com/in/emijerochim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <br>
       <br>
+      <a href="https://emijerochim.com/" target="_blank"><img align="center" alt="Code" width="300px" src="/src/images/code.jpg"/></a>
+      <br>
     </div>
     <div class="text">
       <h2 align="center">My stack</h2>
       <br>
-      <a href="https://emijerochim.com/" target="_blank"><img align="left" alt="Laptop" width="330px" src="/src/images/readme.png"/></a>
-      <p>📱 Frontend: HTML5, CSS3, SASS, Figma, React, Router, GraphQL</p>
-      <p>🖥️ Backend: Node.js, Express, API REST, JWT Authentication, ORMs</p>
-      <p>💾 Databases: MySQL, MongoDB, PostgreSQL</p>
-      <p>👥 Project Management: Git, UML, Trello, Scrum</p>
-      <p> </p>
+      <p align="center">📱 Frontend: HTML5, CSS3, SASS, Figma, React, Router, GraphQL</p>
+      <p align="center">🖥️ Backend: Node.js, Express, API REST, JWT Authentication, ORMs</p>
+      <p align="center">💾 Databases: MySQL, MongoDB, PostgreSQL</p>
+      <p align="center">👥 Project Management: Git, UML, Trello, Scrum</p>
+      <p align="center"> </p>
       <br>
     </div>
   </div>
