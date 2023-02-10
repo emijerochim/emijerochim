@@ -18,10 +18,9 @@
       <h2 align="center">My stack</h2>
       <br>
       <a href="https://emijerochim.com/" target="_blank"><img align="left" alt="Laptop" width="330px" src="/src/images/readme.png"/></a>
-      <p>📱 Frontend: HTML5, CSS3, SASS, Figma, React, Router</p>
-      <p>🖥️ Backend: Node.js, Express, API REST</p>
+      <p>📱 Frontend: HTML5, CSS3, SASS, Figma, React, Router, GraphQL</p>
+      <p>🖥️ Backend: Node.js, Express, API REST, JWT Authentication, ORMs</p>
       <p>💾 Databases: MySQL, MongoDB, PostgreSQL</p>
-      <p>✅ Testing: Postman, Jest, Testing Library</p>
       <p>👥 Project Management: Git, UML, Trello, Scrum</p>
       <p> </p>
       <br>
