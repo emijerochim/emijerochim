@@ -41,7 +41,7 @@
     background-position: 25% 63%;
 
     .home-container {
-      height: $banner-size-web + $container-size-web;
+      height: $banner-size-web + $container-size-web + 5vh;
       padding-top: $banner-size-web + 8vh;
 
       h2 {

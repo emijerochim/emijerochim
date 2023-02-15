@@ -1,2 +1,2 @@
-export { default as jestt } from "./jest.svg";
-export { default as testinglibrary } from "./testinglibrary.png";
+export { default as jest } from "./jest.svg";
+export { default as testingLibrary } from "./testingLibrary.png";

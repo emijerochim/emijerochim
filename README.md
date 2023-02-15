@@ -2,8 +2,7 @@
   <div class="header">
     <div class="text" align="center">
       <h1>
-        <img src="https://github.com/emijerochim/emijerochim/blob/main/src/images/logo.png" width="27px"> 
-        Welcome!
+        <img src="https://github.com/emijerochim/emijerochim/blob/main/src/images/logo.png" width="27px">
       </h1>
       <p>Hi! my name is Emi 👋</p>
       <p>I build web apps, landing pages, REST APIs, bots and more with a stack of modern technologies and clean code.</p>
