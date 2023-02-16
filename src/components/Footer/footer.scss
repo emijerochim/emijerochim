@@ -1,93 +1,50 @@
 @import "../../utils/variables";
 
 .footer {
+  background-color: $footer-background-color;
+  display: flex;
+  flex-direction: column;
+  padding-top: 2vh;
 
-  .footer-top {
-    background-color: $footer-top-background-color;
-    padding-top: 1vh;
-    padding-bottom: 4vh;
-
-    .social-media {
-      height: 5vh;
-
-      li {
-        a {
-          img {
-            height: 5vh;
-          }
-        }
-      }
-    }
+  .footer-copyright,
+  .footer-mail,
+  .footer-dev-bsas,
+  .footer-repo-label,
+  .footer-mail {
+    margin-top: 2vh;
+    color: $font-color-light;
   }
 
-  .footer-bottom {
-    background-color: $footer-bottom-background-color;
-    display: flex;
-    flex-direction: column;
-    padding-top: 2vh;
-
-    .footer-copyright,
-    .footer-mail,
-    .footer-dev-bsas,
-    .footer-repo-label {
+  a {
+    .footer-repo-logo {
       margin-top: 2vh;
-      color: $font-color-light;
-    }
-
-    .footer-mail {
-      margin-top: 4vh;
-    }
-
-    a {
-      .footer-repo-logo {
-        margin-top: 2vh;
-        margin-bottom: 3vh;
-        height: 5vh;
-      }
+      margin-bottom: 3vh;
+      height: 5vh;
     }
   }
 }
 
 @media (min-width: 768px) {
   .footer {
-    .footer-top {
-      padding-top: 1vh;
-      padding-bottom: 8vh;
+    flex-direction: row;
 
-      .social-media {
-        height: 5vh;
-
-        li {
-          a {
-            img {
-              height: 8vh;
-            }
-          }
-        }
-      }
+    .footer-copyright,
+    .footer-mail,
+    .footer-dev-bsas,
+    .footer-repo-label {
+      font-size: 1.5rem;
+      margin-top: 4vh;
     }
 
-    .footer-bottom {
-      flex-direction: row;
+    .footer-mail {
+      margin-top: 4vh;
+      margin-bottom: 6vh;
+    }
 
-      .footer-copyright,
-      .footer-mail,
-      .footer-dev-bsas,
-      .footer-repo-label {
-        font-size: 1.5rem;
-        margin-top: 4vh;
-      }
-
-      .footer-mail {
-        margin-top: 4vh;
-        margin-bottom: 6vh;
-      }
-
-      a {
-        .footer-repo-logo {
-          margin-top: 2.5vh;
-          height: 6vh;
-        }
+    a {
+      .footer-repo-logo {
+        margin-top: 2.5vh;
+        height: 6vh;
       }
     }
   }

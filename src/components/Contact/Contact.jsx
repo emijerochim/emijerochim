@@ -1,15 +1,19 @@
 import "./contact.scss";
+import SocialMedia from "../SocialMedia/SocialMedia";
 
 function Contact(props) {
   return (
     <section id="contact" className="contact">
       <div className="contact-container">
-        <h3 className="contact-title">Construyamos algo juntos</h3>
-        <p>¿Tenés un proyecto?</p>
+        <h3 className="contact-title">I'm open to work</h3>
         <p>
-          Llená el formulario y te cuento cómo te puedo ayudar a hacerlo realidad.
+          I'm looking for new opportunities to work on new projects, helping and
+          learning from a proactive team.
         </p>
-        <button type="button" onClick={() => window.open('https://docs.google.com/forms/d/e/1FAIpQLSfvut0LL6N5LN4IYh3fARGsu18EqBx0Cws2co81Ve7kYudrbg/viewform')}>CONTACTO</button>
+        <p>
+          If you're interested in working with me don't hesitate to contact me
+        </p>
+        <SocialMedia />
       </div>
     </section>
   );
