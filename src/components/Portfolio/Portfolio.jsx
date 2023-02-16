@@ -9,11 +9,29 @@ const Portfolio = () => {
   const [activeIndex, setActiveIndex] = useState(0);
   const mobileImages = [];
   const webImages = [organizr_web, smartbrain_web, robofriends_web];
-  const itemsTitles = ["Organizr", "SmartBrain", "RoboFriends"];
+  const itemsTitles = ["Organizr 👁️‍🗨️", "SmartBrain 🧠", "RoboFriends 🤖 "];
   const itemsDescriptions = [
-    "orgdrg ipsum dolor sit amet consectetur adipisicing elit. Quisquam voluptates, quod, quia, voluptatibus quae voluptatem quibusdam voluptatum quos quidem quas nesciunt. Quisquam, quae. Quisquam",
-    "Face detection full stack app.\n\n📱 Frontend: HTML5, CSS3, SASS, React.js\n🖥️ Backend: Node.js, Express, JWT Authentication, pg\n💾 Database: PostgreSQL",
-    "robofri ipsum dolor sit amet consectetur adipisicing elit. Quisquam voluptates, quod, quia, voluptatibus quae voluptatem quibusdam voluptatum quos quidem quas nesciunt. Quisquam, quae. Quisquam",
+    [
+      "Cash-flow management web app",
+      "📱 Frontend: HTML5, CSS3, SASS, React.js",
+      "🖥️ Backend: Node.js, Express, Mongoose",
+      "🧰 Tools: Git, VS Code, Nodemon, Trello",
+      "📚 Libraries: JWT, Moment.js, Chart.js",
+      "💾 Database: MongoDB",
+    ],
+    [
+      "Face detection full stack web app",
+      "📱 Frontend: HTML5, CSS3, SASS, React.js",
+      "🖥️ Backend: Node.js, Express",
+      "📚 Libraries: Clarifai API, JWT, pg",
+      "💾 Database: PostgreSQL",
+    ],
+    [
+      "API-generated users search web app",
+      "📱 Frontend: HTML5, React.js",
+      "📚 Libraries: Tachyons, RoboHash API, JSONPlaceholder API",
+      "☁️ Deploy: GitHub Pages",
+    ],
   ];
 
   const handlePrevClick = () => {
@@ -27,24 +45,30 @@ const Portfolio = () => {
   return (
     <div className="portfolio" id="portfolio">
       <div className="items-container">
-        <div className="item-title-container">
-          <h3 className="item-title">{itemsTitles[activeIndex]}</h3>
+        <div className="item-description">
+          <div className="item-title-container">
+            <h3 className="item-title">{itemsTitles[activeIndex]}</h3>
+          </div>
+          <div className="item-stack">
+            {itemsDescriptions[activeIndex].map((item, index) => (
+              <p className="item" key={index}>
+                {item}
+              </p>
+            ))}
+          </div>
         </div>
         <div className="image-container">
-          <button className="item-btn" onClick={handlePrevClick}>
-            Prev
+          <button className="item-btn btn-left" onClick={handlePrevClick}>
+            &#60;
           </button>
           <img
             className="item-image"
             src={webImages[activeIndex]}
             alt="Portfolio"
           />
-          <button className="item-btn" onClick={handleNextClick}>
-            Next
+          <button className="item-btn btn-right" onClick={handleNextClick}>
+            &#62;
           </button>
-        </div>
-        <div className="item-description">
-          <p>{itemsDescriptions[activeIndex]}</p>
         </div>
       </div>
       <Button to="stack" />
