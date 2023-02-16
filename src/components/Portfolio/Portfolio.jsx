@@ -7,8 +7,7 @@ import "./Portfolio.scss";
 
 const Portfolio = () => {
   const [activeIndex, setActiveIndex] = useState(0);
-  const mobileImages = [];
-  const webImages = [organizr_web, smartbrain_web, robofriends_web];
+  const images = [organizr_web, smartbrain_web, robofriends_web];
   const itemsTitles = ["Organizr 👁️‍🗨️", "SmartBrain 🧠", "RoboFriends 🤖 "];
   const itemsDescriptions = [
     [
@@ -35,11 +34,11 @@ const Portfolio = () => {
   ];
 
   const handlePrevClick = () => {
-    setActiveIndex((activeIndex - 1 + webImages.length) % webImages.length);
+    setActiveIndex((activeIndex - 1 + images.length) % images.length);
   };
 
   const handleNextClick = () => {
-    setActiveIndex((activeIndex + 1) % webImages.length);
+    setActiveIndex((activeIndex + 1) % images.length);
   };
 
   return (
@@ -63,7 +62,7 @@ const Portfolio = () => {
           </button>
           <img
             className="item-image"
-            src={webImages[activeIndex]}
+            src={images[activeIndex]}
             alt="Portfolio"
           />
           <button className="item-btn btn-right" onClick={handleNextClick}>

@@ -17,7 +17,7 @@
   justify-content: center;
 
   .items-container {
-    height: 80vh;
+    height: 80%;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -67,7 +67,7 @@
       justify-content: flex-start;
 
       .item-image {
-        height: 100%;
+        height: 50vh;
         object-fit: cover;
         border-radius: 10px;
       }
@@ -100,28 +100,54 @@
 //media query
 @media screen and (max-width: 768px) {
   .portfolio {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
     .items-container {
-      .item-title-container {
-        .item-title {
-          font-size: 2rem;
+      height: 100%;
+      width: 100vw;
+      flex-direction: column;
+      justify-content: flex-end;
+
+      .item-description {
+        width: 100vw;
+        height: 30vh;
+        margin-bottom: 1.5vh;
+
+        .item-title-container {
+          height: 20%;
+
+          .item-title {
+            font-size: 2rem;
+          }
+        }
+
+        .item-stack {
+          height: 40vh;
+          width: 100%;
+          font-size: 1rem;
+          margin-top: 1rem;
+
+          .item {
+            margin-top: 0.3rem;
+          }
         }
       }
 
       .image-container {
-        height: 40vh;
-        width: 80vw;
+        height: 50vh;
+        width: 100%;
+
+        .item-image {
+          height: 100%;
+          width: 70%;
+        }
 
         .item-btn {
           width: 40px;
           height: 40px;
-          font-size: 1rem;
         }
-      }
-
-      .item-stack {
-        height: 10vh;
-        width: 80vw;
-        font-size: 1.2rem;
       }
     }
   }
