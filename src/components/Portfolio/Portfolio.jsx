@@ -1,14 +1,20 @@
 import React, { useState } from "react";
-import organizr_web from "../../images/organizr_web.PNG";
-import smartbrain_web from "../../images/smartbrain_web.PNG";
-import robofriends_web from "../../images/robofriends_web.PNG";
+import organizr from "../../images/organizr.PNG";
+import smartbrain from "../../images/smartbrain.PNG";
+import robofriends from "../../images/robofriends.PNG";
+import emijerochim from "../../images/emijerochim.PNG";
 import Button from "../Button/Button";
 import "./Portfolio.scss";
 
 const Portfolio = () => {
   const [activeIndex, setActiveIndex] = useState(0);
-  const images = [organizr_web, smartbrain_web, robofriends_web];
-  const itemsTitles = ["Organizr 👁️‍🗨️", "SmartBrain 🧠", "RoboFriends 🤖 "];
+  const images = [organizr, smartbrain, robofriends, emijerochim];
+  const itemsTitles = [
+    "Organizr 👁️‍🗨️",
+    "SmartBrain 🧠",
+    "RoboFriends 🤖 ",
+    "Portfolio 💼",
+  ];
   const itemsDescriptions = [
     [
       "Cash-flow management web app",
@@ -29,6 +35,12 @@ const Portfolio = () => {
       "API-generated users search web app",
       "📱 Frontend: HTML5, React.js",
       "📚 Libraries: Tachyons, RoboHash API, JSONPlaceholder API",
+      "☁️ Deploy: GitHub Pages",
+    ],
+    [
+      "Portfolio web app",
+      "📱 Frontend: HTML5, CSS3, SASS, React.js",
+      "📚 Libraries: react-tsparticles",
       "☁️ Deploy: GitHub Pages",
     ],
   ];
