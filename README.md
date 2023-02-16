@@ -19,7 +19,7 @@
       <h2 align="center">My stack</h2>
       <br>
       <p align="center">📱 Frontend: HTML5, CSS3, SASS, Figma, React, Router, GraphQL</p>
-      <p align="center">🖥️ Backend: Node.js, Express, API REST, Apollo, JWT Authentication, ORMs</p>
+      <p align="center">🖥️ Backend: Node.js, Express, REST APIs, JWT Authentication, ORMs</p>
       <p align="center">💾 Databases: MySQL, MongoDB, PostgreSQL</p>
       <p align="center">👥 Project Management: Git, UML, Trello, Scrum</p>
       <p align="center"> </p>
