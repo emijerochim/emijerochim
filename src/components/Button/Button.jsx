@@ -5,7 +5,11 @@ import scrollToId from "../../utils/scrollToId";
 
 function Button(props) {
   return (
-    <button type="button" onClick={() => scrollToId(props.to)}>
+    <button
+      className="scroll-button"
+      type="button"
+      onClick={() => scrollToId(props.to)}
+    >
       <img className="arrow" src={arrow} alt="arrow" tabIndex="0" />
     </button>
   );

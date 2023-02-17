@@ -1,10 +1,11 @@
-button {
+.scroll-button {
   position: relative;
   background-color: transparent;
   border: none;
-  
+  margin-top: 3vh;
+
   .arrow {
-    height: 10vh;
+    height: 8vh;
     cursor: pointer;
   }
 }
