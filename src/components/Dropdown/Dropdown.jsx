@@ -8,7 +8,12 @@ function Dropdown(props) {
         <ul>
           <li>
             <button onClick={() => scrollToId("home")}>
-              <h3>INICIO</h3>
+              <h3>HOME</h3>
+            </button>
+          </li>
+          <li>
+            <button onClick={() => scrollToId("portfolio")}>
+              <h3>PORTFOLIO</h3>
             </button>
           </li>
           <li>
@@ -18,7 +23,7 @@ function Dropdown(props) {
           </li>
           <li>
             <button href="#contact" onClick={() => scrollToId("contact")}>
-              <h3>CONTACTO</h3>
+              <h3>CONTACT</h3>
             </button>
           </li>
         </ul>

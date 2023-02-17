@@ -14,27 +14,31 @@
     background-position: 50% 40vh;
     background-repeat: no-repeat;
 
-    h3,
-    p {
-      font-family: $font-family-primary;
-      color: $font-color-dark;
-      text-align: center;
-    }
-
-    h3 {
-      font-size: 2rem;
-      font-weight: $semi-bold;
-      margin-bottom: 2vh;
+    .contact-title-container {
+      width: 80vw;
       background-color: rgba(255, 255, 255, 0.6);
-      margin-left: 20%;
+      margin-bottom: 2vh;
+
+      h3 {
+        font-family: $font-family-primary;
+        color: $font-color-dark;
+        text-align: center;
+        font-size: 2rem;
+        font-weight: $semi-bold;
+      }
     }
 
-    p {
-      font-size: 1rem;
-      font-weight: $medium;
-      margin-top: 2vh;
-      width: 85%;
-      border-radius: 10px;
+    .contact-description-container {
+      p {
+        font-family: $font-family-primary;
+        color: $font-color-dark;
+        text-align: center;
+        font-size: 1rem;
+        font-weight: $medium;
+        margin-top: 2vh;
+        width: 85%;
+        border-radius: 10px;
+      }
     }
   }
 
@@ -54,16 +58,26 @@
       background-size: 40%;
       background-position: 95% 35vh;
 
-      h3 {
-        margin-top: 10%;
-        margin-left: 18%;
-        font-size: 4rem;
+      .contact-title-container {
+        height: 10vh;
+        width: 40vw;
+        margin-left: 10vw;
+        margin-top: 10vh;
+        display: flex;
+        align-items: center;
+        border-radius: 10px;
+
+        h3 {
+          font-size: 4rem;
+        }
       }
 
-      p {
-        margin-right: 45vw;
-        font-size: 1.5rem;
-        width: 50%;
+      .contact-description-container {
+        p {
+          margin-right: 45vw;
+          font-size: 1.5rem;
+          width: 50%;
+        }
       }
 
       button {
