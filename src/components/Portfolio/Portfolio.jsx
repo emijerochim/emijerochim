@@ -15,6 +15,12 @@ const Portfolio = () => {
     "RoboFriends 🤖 ",
     "Portfolio 💼",
   ];
+  const itemsLinks = [
+    "https://emijerochim.github.io/organizr/",
+    "https://emijerochim.github.io/smartbrain/",
+    "https://emijerochim.github.io/robofriends/",
+    "https://emijerochim.com/",
+  ];
   const itemsDescriptions = [
     [
       "Cash-flow management web app",
@@ -76,6 +82,7 @@ const Portfolio = () => {
             className="item-image"
             src={images[activeIndex]}
             alt="Portfolio"
+            onClick={() => window.open(itemsLinks[activeIndex], "_blank")}
           />
           <button className="item-btn btn-right" onClick={handleNextClick}>
             &#62;
