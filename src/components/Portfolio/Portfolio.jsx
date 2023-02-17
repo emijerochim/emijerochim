@@ -26,16 +26,15 @@ const Portfolio = () => {
       "Cash-flow management web app",
       "📱 Frontend: HTML5, CSS3, SASS, React.js",
       "🖥️ Backend: Node.js, Express, Mongoose",
-      "🧰 Tools: Git, VS Code, Nodemon, Trello",
-      "📚 Libraries: JWT, Moment.js, Chart.js",
       "💾 Database: MongoDB",
+      "📚 Libraries: JWT, Moment.js",
     ],
     [
       "Face detection full stack web app",
       "📱 Frontend: HTML5, CSS3, SASS, React.js",
       "🖥️ Backend: Node.js, Express",
-      "📚 Libraries: Clarifai API, JWT, pg",
       "💾 Database: PostgreSQL",
+      "📚 Libraries: Clarifai API, JWT, pg",
     ],
     [
       "API-generated users search web app",
