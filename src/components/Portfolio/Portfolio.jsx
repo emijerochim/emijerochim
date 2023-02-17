@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import organizr from "../../images/organizr.PNG";
-import smartbrain from "../../images/smartbrain.PNG";
-import robofriends from "../../images/robofriends.PNG";
-import emijerochim from "../../images/emijerochim.PNG";
+import organizr from "../../images/organizr.png";
+import smartbrain from "../../images/smartbrain.png";
+import robofriends from "../../images/robofriends.png";
+import emijerochim from "../../images/emijerochim.png";
 import Button from "../Button/Button";
 import "./Portfolio.scss";
 
