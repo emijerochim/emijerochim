@@ -10,8 +10,8 @@ function Contact(props) {
         </div>
         <div className="contact-description-container">
           <p>
-            I'm looking for new opportunities to work on new projects, helping
-            and learning from a proactive team.
+            I'm looking for opportunities to work on new projects, helping and
+            learning from a proactive team.
           </p>
           <p>
             If you're interested in working with me don't hesitate to contact me

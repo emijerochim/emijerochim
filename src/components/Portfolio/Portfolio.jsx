@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import organizr from "../../images/organizr.png";
 import smartbrain from "../../images/smartbrain.png";
 import robofriends from "../../images/robofriends.png";
@@ -49,6 +49,14 @@ const Portfolio = () => {
       "☁️ Deploy: GitHub Pages",
     ],
   ];
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setActiveIndex((activeIndex + 1) % images.length);
+    }, 5000);
+
+    return () => clearInterval(interval);
+  }, [activeIndex]);
 
   const handlePrevClick = () => {
     setActiveIndex((activeIndex - 1 + images.length) % images.length);
