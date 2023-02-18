@@ -32,9 +32,9 @@ const Portfolio = () => {
     [
       "Face detection full stack web app",
       "📱 Frontend: HTML5, CSS3, SASS, React.js",
-      "🖥️ Backend: Node.js, Express, Knex",
+      "🖥️ Backend: Node.js, Express, pg",
       "💾 Database: PostgreSQL",
-      "📚 Libraries: Clarifai API, JWT, pg",
+      "📚 Libraries: Clarifai API, JWT",
     ],
     [
       "API-generated users search web app",
