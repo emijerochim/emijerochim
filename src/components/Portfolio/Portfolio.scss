@@ -106,18 +106,19 @@
     padding-bottom: 2vh;
 
     .items-container {
-      height: 100%;
+      margin-top: $banner-size-mobile;
+      height: 70vh;
       width: 100vw;
       flex-direction: column;
-      justify-content: flex-end;
+      justify-content: center;
 
       .item-description {
         width: 100vw;
-        height: 30vh;
-        margin-bottom: 1.5vh;
+        height: 25vh;
 
         .item-title-container {
           height: 20%;
+          margin-top: auto;
 
           .item-title {
             font-size: 30px;
@@ -137,14 +138,12 @@
       }
 
       .image-container {
-        height: 45vh;
+        height: 40vh;
         width: 100%;
-        overflow: hidden;
 
         .item-image {
           height: 100%;
           width: 65%;
-          transform: translateY(15%);
         }
       }
     }
