@@ -5,7 +5,7 @@ import github from "../../images/socialMedia/github.svg";
 function Footer() {
   return (
     <footer className="footer">
-      <p className="footer-copyright">© Copyright 2021 - Emi Jerochim</p>
+      <p className="footer-copyright">© Copyright 2023 - Emi Jerochim</p>
       <p className="footer-dev-bsas">
         Full Stack Developer - Buenos Aires, Argentina
       </p>
