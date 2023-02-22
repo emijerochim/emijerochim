@@ -1,13 +1,15 @@
-function StackItem(props) {
+function StackItem({ group, entersFrom, items }) {
   return (
-    <div className={`
+    <div
+      className={`
       stack-item 
-      ${props.group} 
-      enters-from-${props.entersFrom}
-    `}>
-      <h4>{props.group}</h4>
+      ${group} 
+      enters-from-${entersFrom}
+    `}
+    >
+      <h4>{group}</h4>
       <ul>
-        {props.items.map((item) => {
+        {items.map((item) => {
           return (
             <li key={item}>
               <img src={item} alt={item} />

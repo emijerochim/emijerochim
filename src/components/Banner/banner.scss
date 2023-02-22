@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
-@import "../../utils/variables";
+@import "../../variables";
 
 .banner {
   width: 100vw;
@@ -60,8 +60,7 @@
   }
 }
 
-//Hamburger click
-.falseDarkMode {
+.banner.deployed-false {
   background: $banner-falseDarkMode-background-color;
 
   h1 {
@@ -109,15 +108,14 @@
       }
     }
   }
-
-  .falseDarkMode {
-    .hamburger-container {
-      .hamburger::before {
-        transform: translateX(50%) rotate(45deg);
-      }
-      .hamburger::after {
-        transform: translateX(50%) rotate(-45deg);
-      }
+}
+.banner.deployed-false {
+  .hamburger-container {
+    .hamburger::before {
+      transform: translateX(50%) rotate(45deg);
+    }
+    .hamburger::after {
+      transform: translateX(50%) rotate(-45deg);
     }
   }
 }

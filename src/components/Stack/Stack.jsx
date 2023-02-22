@@ -1,14 +1,13 @@
-import "./stack.scss";
 import { useEffect } from "react";
-import StackItem from "./StackItem";
-import Button from "../Button/Button";
-import stackObserver from "./stackObserver";
-
 import { html5, css3, sass, figma, react } from "../../images/stack/frontend";
 import { node, express } from "../../images/stack/backend";
 import { mysql, mongodb, postgresql } from "../../images/stack/databases";
 import { jest, testingLibrary } from "../../images/stack/testing";
 import { git, uml, trello, scrum } from "../../images/stack/management";
+import stackObserver from "./stackObserver";
+import Button from "../Button/Button";
+import StackItem from "./StackItem";
+import "./stack.scss";
 
 function Stack() {
   useEffect(() => {
@@ -22,24 +21,24 @@ function Stack() {
       <div className="stack-container">
         <StackItem
           group="Frontend"
-          items={[html5, css3, sass, figma, react]}
           entersFrom="right"
+          items={[html5, css3, sass, figma, react]}
         />
-        <StackItem group="Backend" items={[node, express]} entersFrom="left" />
+        <StackItem group="Backend" entersFrom="left" items={[node, express]} />
         <StackItem
           group="Databases"
-          items={[mysql, mongodb, postgresql]}
           entersFrom="right"
+          items={[mysql, mongodb, postgresql]}
         />
         <StackItem
           group="Testing"
-          items={[jest, testingLibrary]}
           entersFrom="left"
+          items={[jest, testingLibrary]}
         />
         <StackItem
           group="Management"
-          items={[git, uml, trello, scrum]}
           entersFrom="right"
+          items={[git, uml, trello, scrum]}
         />
       </div>
       <Button to="contact" />

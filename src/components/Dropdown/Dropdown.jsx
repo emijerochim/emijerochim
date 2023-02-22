@@ -1,9 +1,9 @@
 import "./dropdown.scss";
-import scrollToId from "../../utils/scrollToId";
+import Button from "../Button/Button";
 
-function Dropdown(props) {
+function Dropdown({ deployed }) {
   return (
-    <div className={`dropdown ${props.activeDropdown}ActiveDropdown`}>
+    <div className={`dropdown deployed-${deployed}`}>
       <nav className="options-container">
         <ul>
           <li>
@@ -22,7 +22,10 @@ function Dropdown(props) {
             </button>
           </li>
           <li>
-            <button href="#contact" onClick={() => scrollToId("contact")}>
+            <button
+              href="#contact"
+              onClick={() => Button.scrollToId("contact")}
+            >
               <h3>CONTACT</h3>
             </button>
           </li>

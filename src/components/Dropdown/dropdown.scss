@@ -1,17 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
-@import "../../utils/variables";
+@import "../../variables";
 
 .dropdown {
   width: 100%;
+  position: fixed;
   height: $dropdown-size-mobile;
   margin-top: $banner-size-mobile;
-  display: flex;
-  flex-direction: column;
-  position: fixed;
-  z-index: 2;
   background: $dropdown-background-color;
   transition: all 0.5s linear;
-  opacity: 1;
+  z-index: 2;
 
   .options-container {
     margin-top: 2vh;
@@ -38,7 +35,7 @@
   }
 }
 
-.dropdown.falseActiveDropdown {
+.dropdown.deployed-false {
   transform: translateX(200%);
 }
 
@@ -60,10 +57,5 @@
         }
       }
     }
-  }
-
-  .dropdown.falseActiveDropdown {
-    transform: translateY(-200%);
-    opacity: 0;
   }
 }

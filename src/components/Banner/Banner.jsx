@@ -1,18 +1,18 @@
 import "./banner.scss";
 import logo from "../../images/logo.png";
 
-function Banner(props) {
+function Banner({ deployed, setDeployed }) {
   return (
-    <div className={`banner ${props.darkMode}DarkMode`}>
+    <div className={`banner deployed-${!deployed}`}>
       <a className="logo_container" href="./">
         <img className="logo" src={logo} alt="logo" />
       </a>
       <h1>EMI JEROCHIM</h1>
+
       <div
         className="hamburger-container"
         onClick={() => {
-          props.setDarkMode(!props.darkMode);
-          props.setActiveDropdown(!props.activeDropdown);
+          setDeployed(!deployed);
         }}
       >
         <div className="hamburger"></div>

@@ -1,24 +1,17 @@
 import React, { useState, useEffect } from "react";
 import organizr from "../../images/organizr.png";
 import smartbrain from "../../images/smartbrain.png";
-import robofriends from "../../images/robofriends.png";
 import emijerochim from "../../images/emijerochim.png";
 import Button from "../Button/Button";
 import "./Portfolio.scss";
 
 const Portfolio = () => {
   const [activeIndex, setActiveIndex] = useState(0);
-  const images = [organizr, smartbrain, robofriends, emijerochim];
-  const itemsTitles = [
-    "Organizr 👁️‍🗨️",
-    "SmartBrain 🧠",
-    "RoboFriends 🤖 ",
-    "Portfolio 💼",
-  ];
+  const images = [organizr, smartbrain, emijerochim];
+  const itemsTitles = ["Organizr 👁️‍🗨️", "SmartBrain 🧠", "Portfolio 💼"];
   const itemsLinks = [
     "https://emijerochim.github.io/organizr/",
     "https://emijerochim.github.io/smartbrain/",
-    "https://emijerochim.github.io/robofriends/",
     "https://emijerochim.com/",
   ];
   const itemsDescriptions = [
@@ -35,12 +28,6 @@ const Portfolio = () => {
       "🖥️ Backend: Node.js, Express, pg",
       "💾 Database: PostgreSQL",
       "📚 Libraries: Clarifai API, JWT",
-    ],
-    [
-      "API-generated users search web app",
-      "📱 Frontend: HTML5, React.js",
-      "📚 Libraries: Tachyons, RoboHash API, JSONPlaceholder API",
-      "☁️ Deploy: GitHub Pages",
     ],
     [
       "Portfolio web app",
