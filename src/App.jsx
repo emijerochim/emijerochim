@@ -13,16 +13,30 @@ import "./App.css";
 function App() {
   const [deployed, setDeployed] = useState(false);
 
+  const scrollToId = async (section) => {
+    const element = document.getElementById(section);
+    const target = element.getBoundingClientRect().top + window.scrollY;
+
+    await window.scrollTo({
+      top: target,
+      behavior: "smooth",
+    });
+  };
+
   return (
     <main className="App">
       <header>
         <Banner deployed={deployed} setDeployed={setDeployed} />
-        <Dropdown deployed={deployed} setDeployed={setDeployed} />
+        <Dropdown
+          deployed={deployed}
+          setDeployed={setDeployed}
+          scrollToId={scrollToId}
+        />
       </header>
-      <Home />
+      <Home scrollToId={scrollToId} />
       <Particles id="tsparticles" params={particlesOptions}></Particles>
-      <Portfolio />
-      <Stack />
+      <Portfolio scrollToId={scrollToId} />
+      <Stack scrollToId={scrollToId} />
       <Contact />
       <Footer />
     </main>

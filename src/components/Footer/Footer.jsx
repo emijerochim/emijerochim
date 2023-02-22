@@ -1,6 +1,5 @@
-import "./footer.scss";
-import SocialMedia from "../SocialMedia/SocialMedia";
 import github from "../../images/socialMedia/github.svg";
+import "./footer.scss";
 
 function Footer() {
   return (

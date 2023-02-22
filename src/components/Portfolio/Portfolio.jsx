@@ -5,7 +5,7 @@ import emijerochim from "../../images/emijerochim.png";
 import Button from "../Button/Button";
 import "./Portfolio.scss";
 
-const Portfolio = () => {
+const Portfolio = ({ scrollToId }) => {
   const [activeIndex, setActiveIndex] = useState(0);
   const images = [organizr, smartbrain, emijerochim];
   const itemsTitles = ["Organizr 👁️‍🗨️", "SmartBrain 🧠", "Portfolio 💼"];
@@ -83,7 +83,7 @@ const Portfolio = () => {
           </button>
         </div>
       </div>
-      <Button to="stack" />
+      <Button scrollToId={scrollToId} to="stack" />
     </div>
   );
 };

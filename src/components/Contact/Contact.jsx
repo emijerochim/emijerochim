@@ -1,9 +1,14 @@
-import "./contact.scss";
 import SocialMedia from "../SocialMedia/SocialMedia";
+import "./contact.scss";
 
-function Contact(props) {
+function Contact() {
   return (
-    <section id="contact" className="contact">
+    <section
+      id="contact"
+      className="contact"
+      itemscope
+      itemtype="http://schema.org/Person"
+    >
       <div className="contact-container">
         <div className="contact-title-container">
           <h3 className="contact-title">I'm open to work</h3>

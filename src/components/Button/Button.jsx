@@ -1,17 +1,7 @@
 import arrow from "../../images/arrow.png";
 import "./button.scss";
 
-function Button({ to }) {
-  const scrollToId = async (section) => {
-    const element = document.getElementById(section);
-    const target = element.getBoundingClientRect().top + window.scrollY;
-
-    await window.scrollTo({
-      top: target,
-      behavior: "smooth",
-    });
-  };
-
+function Button({ to, scrollToId }) {
   return (
     <button
       className="scroll-button"

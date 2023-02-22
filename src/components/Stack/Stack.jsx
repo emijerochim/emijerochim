@@ -9,7 +9,7 @@ import Button from "../Button/Button";
 import StackItem from "./StackItem";
 import "./stack.scss";
 
-function Stack() {
+function Stack({ scrollToId }) {
   useEffect(() => {
     document.querySelectorAll(".stack-item").forEach((item) => {
       stackObserver.observe(item);
@@ -41,7 +41,7 @@ function Stack() {
           items={[git, uml, trello, scrum]}
         />
       </div>
-      <Button to="contact" />
+      <Button scrollToId={scrollToId} to="contact" />
     </section>
   );
 }

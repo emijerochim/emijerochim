@@ -3,7 +3,7 @@ import SocialMedia from "../SocialMedia/SocialMedia";
 import Button from "../Button/Button";
 import "./home.scss";
 
-function Home() {
+function Home({ scrollToId }) {
   return (
     <section className="home" id="home">
       <div className="home-container">
@@ -17,7 +17,7 @@ function Home() {
         </p>
         <SocialMedia />
       </div>
-      <Button to="portfolio" />
+      <Button scrollToId={scrollToId} to="portfolio" />
     </section>
   );
 }

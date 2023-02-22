@@ -1,7 +1,6 @@
 import "./dropdown.scss";
-import Button from "../Button/Button";
 
-function Dropdown({ deployed }) {
+function Dropdown({ deployed, scrollToId }) {
   return (
     <div className={`dropdown deployed-${deployed}`}>
       <nav className="options-container">
@@ -22,10 +21,7 @@ function Dropdown({ deployed }) {
             </button>
           </li>
           <li>
-            <button
-              href="#contact"
-              onClick={() => Button.scrollToId("contact")}
-            >
+            <button href="#contact" onClick={() => scrollToId("contact")}>
               <h3>CONTACT</h3>
             </button>
           </li>

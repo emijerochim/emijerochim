@@ -9,6 +9,7 @@
   background: $dropdown-background-color;
   transition: all 0.5s linear;
   z-index: 2;
+  border-radius: 20, 20, 10px, 10px;
 
   .options-container {
     margin-top: 2vh;
@@ -42,6 +43,7 @@
 @media (min-width: 768px) {
   .dropdown {
     height: $dropdown-size-web;
+    min-height: 350px;
     margin-top: $banner-size-web;
 
     .options-container {
